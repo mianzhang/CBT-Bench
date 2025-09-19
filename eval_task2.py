@@ -1,0 +1,127 @@
+import os
+import argparse
+
+from transformers import AutoTokenizer
+from sklearn.metrics import f1_score
+
+from utils import *
+from constants import *
+
+
+def task2_prompts(data, shot, return_conversation=False, tokenizer=None, add_system_role=True, seed_idx=0):
+    ret = []
+    seed_data = load_json(TASK2_SEED)
+
+    def get_answer_string(item):
+        answers = []
+        for letter, index in TASK2_INDEX_DICT.items():
+            if TASK2_LABELS[index] in item['distortions']:
+                answers.append(letter)
+        return ', '.join(answers)
+    
+    for query_item in data:
+        if shot == 0:
+            user_query = ZERO_SHOT_TASK2_INTSTRUCTION.format(situation=query_item['situation'], thoughts=query_item['thoughts'])
+        else:
+            ict_data = seed_data[seed_idx:seed_idx + shot]
+            ict_examples = ""
+            for item in ict_data:
+                ict_examples += f"Situation: {item['situation']}"
+                ict_examples += '\n'
+                ict_examples += f"**Thoughts: {item['thoughts']}"
+                ict_examples += '\n'
+                ict_examples += f"Question: what distortions this patient has?"
+                ict_examples += '\n'
+                ict_examples += TASK2_CHOICES
+                ict_examples += '\n'
+                ict_examples += f"Answer: {get_answer_string(item)}"
+                ict_examples += '\n\n'
+            user_query = K_SHOT_TASK2_INTSTRUCTION.format(
+                in_context_examples=ict_examples.strip(),
+                situation=query_item['situation'],
+                thoughts=query_item['thoughts'])
+        if add_system_role:
+            chat = [
+                {
+                    "role": "system",
+                    "content": "You are a helpful assistant"
+                },
+                {
+                    "role": "user",
+                    "content": user_query
+                }
+            ]
+        else:
+            chat = [
+                {
+                    "role": "user",
+                    "content": user_query
+                }
+            ]
+        if return_conversation:
+            ret.append(chat)
+        else:
+           prompt = tokenizer.apply_chat_template(chat, tokenize=False, add_generation_prompt=True)
+           ret.append(prompt)
+    return ret
+
+
+def check_generation(generations, answers):
+    predictions = []
+    follow_format = []
+    for gen in generations:
+        choices = gen.replace(' ', '').replace('\n', '').split(',')
+        pred = [0 for _ in range(len(TASK2_LABELS))]
+        for x in choices:
+            idx = TASK2_INDEX_DICT.get(x, None)
+            if idx is not None:
+                pred[idx] = 1
+        if any(pred):
+            follow_format.append(True)
+        else:
+            follow_format.append(False)
+        predictions.append(pred)
+    f1 = f1_score(y_true=answers, y_pred=predictions, average='weighted') 
+    return f1, predictions, follow_format
+
+
+if __name__ == '__main__':
+    parser = get_parser()
+    parser.add_argument('--seed_idx', type=int, default=0)
+    args = parser.parse_args()
+    args.gpu_num = len(os.environ['CUDA_VISIBLE_DEVICES'].split(','))
+    args.model_id = HF_MODELS[args.model]
+
+    data = load_json(TASK2_TEST)
+    tokenizer = AutoTokenizer.from_pretrained(args.model_id)
+    if 'gemma' in args.model:
+        add_system_role = False
+    else:
+        add_system_role = True
+    if args.model == 'falcon-7b-chat':
+        # only support single gpu now
+        conversations = task2_prompts(data, args.shot, tokenizer=tokenizer, add_system_role=False, return_conversation=True)
+        generations = falcon_mamba_huggingface_inference(
+            conversations, args.model_id, args.max_tokens,
+            args.temperature, tokenizer)
+    else:
+        prompts = task2_prompts(data, args.shot, tokenizer=tokenizer, 
+                                add_system_role=add_system_role, seed_idx=args.seed_idx)
+        generations = vllm_inference(prompts, args.gpu_num, args.model_id, args.max_tokens, args.temperature, args.stop_strs)
+    answers = []
+    for item in data:
+        ans = [0 for _ in range(len(TASK2_LABELS))]
+        for v in item['distortions']:
+            ans[TASK2_LABEL_DICT[v]] = 1
+        answers.append(ans)
+
+    f1, predictions, follow_format = check_generation(generations, answers)
+    print(f"task 2 weighted F1: {f1:.4f}")
+    print(f"{sum(follow_format)}/{len(follow_format)} outputs follow the format")
+    for i in range(len(data)):
+        data[i]['generation'] = generations[i]
+        data[i]['follow_format'] = follow_format[i]
+    if args.shot:
+        dump_json(data, f"task2-{args.model}-shot{args.shot}-temp{args.temperature}-seedidx{args.seed_idx}.json")
+    else:
+        dump_json(data, f"task2-{args.model}-shot{args.shot}-temp{args.temperature}.json")

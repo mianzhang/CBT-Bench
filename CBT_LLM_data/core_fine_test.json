@@ -1,0 +1,1320 @@
+[
+    {
+        "id": "6",
+        "ori_text": "I found out very recently that my mom has cheated on my dad 4 times in the past. They’ve gone to counseling each time, where she denies her cheating until finally she admits it but blames it on him not meeting her needs. I didn’t want to hear this in the first place but you can’t unring a bell.",
+        "situation": "The individual has recently discovered that their mom has cheated on their dad four times in the past. Each time, the parents attended counseling, where the mom initially denied her infidelity but eventually admitted to it, blaming their dad for not meeting her needs.",
+        "thoughts": "I cannot trust anyone, why is everyone a liar.\nMy mom has betrayed me.\nOf course something like this is happening to me, it only happens to me.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a victim",
+            "I am trapped",
+            "I am undesirable, unwanted",
+            "I am bound to be abandoned"
+        ]
+    },
+    {
+        "id": "4678",
+        "ori_text": "I am located in India. I am seeking advise to solve problem between me and wife. My relationship has always been in trouble because of my wife’s suspicious nature. She never trusts me on any thing and The problem is of so high magnitude that I am suffocated and very much frustrated all the time. In spite of all this I love my wife very much and would never exit this relation. But I have to solve this problem to lead a happy life.",
+        "situation": "My relationship has always been in trouble because of my wife’s suspicious nature.",
+        "thoughts": "- This is all my wife's fault, not mine. If she stopped being suspicious, then all of our marital problems would be solved. There is nothing I can do about this; she is the one who needs to change.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am powerless, weak, vulnerable",
+            "I am a victim"
+        ]
+    },
+    {
+        "id": "4508",
+        "ori_text": "Having the structure of our family to focus on seemed to help my schizophrenic mother hold it together while we were growing up. We saw her first psychotic episode when I was a senior in high school the oldest child. Mom did spend time in state mental hospitals before she was married. My father was a verbally abusive alcoholic.",
+        "situation": "Having the structure of our family to focus on seemed to help my schizophrenic mother hold it together while we were growing up. We saw her first psychotic episode when I was a senior in high school the oldest child.",
+        "thoughts": "Our family structure was probably the only thing that kept my mom stable, but once I was a senior in high school applying to colleges, that’s when everything started falling apart. I think the idea of me leaving home broke her. So, I need to stay with her. If I don’t keep her safe, who will? Our dad isn’t good at taking care of her; he only cares about himself. I’m the only one who can do it. If I don’t, everything will fall apart. My mom needs me. I can’t go to college. I’m stuck here but I love my mom, so I know what I should do.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am trapped",
+            "I am out of control"
+        ]
+    },
+    {
+        "id": "4568",
+        "ori_text": "I’ve been with my boyfriend for 2 years. He hasn’t trusted me for a long time and I’m not sure why. Ive never cheated. He is constantly accusing me everyday about what I’m doing.he doesn’t even trust me to go to my families house or to the store. He even calls me names like bitch,whore, and many other things. he has even put his hands on me before. every time we go somewhere together he thinks I’m looking at other men. I don’t think he is cheating but i have found numbers on different occasions.",
+        "situation": "I have experienced many accusations, suspicions, name calling and physical violence from my boyfriend throughout our relationship.",
+        "thoughts": "My boyfriend doesn't trust me and hasn't for a long time. I do not think he is cheating on me.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am undesirable, unwanted"
+        ]
+    },
+    {
+        "id": "4684",
+        "ori_text": "My daughter (age 22) was recently diagnosed as bipolar. She had a major panic attack and was hospitalized for 2 weeks, which was very traumatic. After her release, she stayed on her meds and went to sessions with a therapist for a few weeks, but recently stopped taking all meds, and refuses to see her therapist. She seemed ok for a little while, but is not showing signs of mania again. If I say anything about seeking treatment, she accuses me of not understanding her and what is happening to her. She is very paranoid and worries about her safety all the time. I need to know how to talk to her and what to do to get her into treatment. Any suggestions?? thanks",
+        "situation": "My daughter was recently diagnosed as bipolar. If I say anything about seeking treatment, my daughter accuses me of not understanding her and what is happening to her. She is very paranoid and worries about her safety all the time. I need to know how to talk to her and what to do to get her into treatment.",
+        "thoughts": "- I am a bad mother.\n- This is my fault.\n- It is so shameful that my daughter has bipolar.\n- If my daughter gets worse, then it will be my fault for not getting her into treatment.\n- I need to do something. This is my responsibility.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "14",
+        "ori_text": "Me and my older brother have always been close and he’s always been my hero. As for me, myself, I started the journey of getting couyselinf since I was when apparently, I would masterbate in school (in class, in the bathroom, and once even on the monkey bars). I also got in trouble once for peeing in front of my dad. So im sure this plays a part I why my mood has been so negative recently. And no, I was never molested. My parents are loving but always absent. this also plays a part in what is going on in my life. Given I was very sexual at a young age, I told my brother while crying frantically that I wanted to be his wife. 2 times I was the cause of him vbreakinbg woth someone he loved (guilt), and I wad responsible for insisting to let me see what sex feels like. I lost my virginity to him I n a triumphany victory because I though after we made love that he would be all mine, what a sick thought in reflection, although the most intense sex ive ever had. We are highly sexual with each other still. I even cater to his extreme foot fetish and bdsm although afterwards every time I feel so dirty and putrid. what a paradox, pain mixed with pleasure, so confusing. its to the point now where other guys don’t turn me on anymore. I only want to have sex with him and to make it worse, I get jealous when he even mentions other girls. How do I stop doing this?",
+        "situation": "I have started to be attracted to my brother sexually. I've been struggling lately with negative moods, likely stemming from childhood issues and feelings of guilt. My parents, though loving, have been absent in my life, leaving me feeling unsupported. I recently confessed to my brother, in tears, that I had developed romantic feelings for him, causing him distress and leading to the end of his relationships.",
+        "thoughts": "I'm a burden to my brother.\nI ruin everything I touch.\nI'll never be good enough for anyone.",
+        "core_belief_fine_grained": [
+            "I am trapped",
+            "I am out of control",
+            "I am defective",
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am worthless, waste",
+            "I am immoral",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "4621",
+        "ori_text": "I’ve been depressed since I was 9. I’m 13 now. I’ve always had real bad health problems. And my family has always treated me like a piece of crap. But recently it’s gotten worse. My grandma’s friend told my grandma a lie about me claiming I said ‘I’d cut off girls’ fingers if they came into my room! now this is a total lie. I would actually like it if a girl came into my room xD.",
+        "situation": "And my family has always treated me like a piece of crap.",
+        "thoughts": "My family thinks I am unworthy of respect or love. My family does not value me. I am angry at my family for how they treat me. It is unjust how I am treated by my family. I wish my family understood me and accepted me.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "49",
+        "ori_text": "From a teen in Canada: The relationship with my mom has worsened due to a lie I told back in February, which I took full responsibility for and I am aware that hiding my depression from her and the fact that I was seeing a physiologist without her knowing was not okay, but I felt as if she wouldn’t understand, because she’s always told me I make a big deal out of everything and that I want to make it seem like I’m a victim when I cry, so I was ashamed to tell her and face her criticism.",
+        "situation": "My relationship with my mom has deteriorated due to a lie I told back in February. I took full responsibility for it, but I'm aware that my actions, such as hiding my depression from her and seeing a psychologist without her knowledge, were not acceptable. I felt that she wouldn't understand because she's always belittled my emotions, accusing me of exaggerating and seeking attention whenever I express myself emotionally. This led me to feel ashamed and afraid of facing her criticism, so I chose to keep my struggles hidden.",
+        "thoughts": "I'm a failure for lying and hiding things from my mom.\nShe'll never understand or accept me for who I am.\nI'm just seeking attention by expressing my feelings.",
+        "core_belief_fine_grained": [
+            "I am trapped",
+            "I am a failure, loser",
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be rejected",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "30",
+        "ori_text": "I’m spiraling into this state of despair because I cannot enjoy what is around me. The birds, the trees, the sky, the smile of people, nothing. It brings no joy to me and it really bothers me. However, I understand that no human can live this wonderful life all of the time and be scott free without seeing some things that bother them. In my case, I’ve seen some very horrible things, mostly car accidents and family members who have died from various diseases and being mortified and shocked at them having no life anymore. I’m very sensitive to such things as well and it effects me more than anyone else I know and it bothers me. Even a dead deer on the side of the road traumatizes me for the day or seeing some zombies. One particular day, however, sealed the deal with me being pretty much traumatized constantly. So I’m 13 years old and I’m going to a doctor’s appointment and I see an old man with his skull crushed in and the insides of his head splattered all over the highway from a Semi hitting him in his car. Imagine how mortified I was. I didn’t speak for a whole day as a matter of fact and I cried the whole night. That perhaps sealed the deal with me being shocked. So fast forward to me being 20 now and I’m upset that I can’t be happy because I am in this constant state of shock and I do these thousand yard stares yet think and feel nothing because I’ve seen what horrors the world has offered. I can’t be happy at all. I ask God to help me but my mental capacity does not allocate me to register that there is innocence around me and that I should smile because my innocence and happiness has been permanently stolen from me and I am in a constant state of shock and I feel out of the world. Not like I’m high, I just feel permanently detached from everything, which includes me happiness. I can still feel sadness which is unfortunate but I try to cope with it. To do this I’ve grown very very attached to horses and I hug them to feel better, however this is temporary and I wish to be happy from my surroundings.",
+        "situation": "Feeling unable to find joy in the world due to a constant state of shock and detachment caused by witnessing traumatic events since childhood, particularly a horrific car accident involving an old man when the individual was 13 years old. Despite efforts to cope, such as seeking solace in horses, the inability to feel happiness from surroundings persists into adulthood.",
+        "thoughts": "I will never enjoy what is in my life.\nThe world is a horrible place.\nI am always in a state of shock or disbelief.\nI am never going to be happy.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am trapped",
+            "I am a failure, loser"
+        ]
+    },
+    {
+        "id": "4681",
+        "ori_text": "This is all probably going to sound really strange, but I just really feel like something is not right. There is a blur in my life that I absolutely cannot remember. I can remember right before I started school, when I was 4 or 5. Then there is about 2 or 3 years that is completely lost. I have never though much about until here of late. It all centers around a place that me and my family stayed. It was a duplex and I don’t remember living there at all. I remember that house before that and the one after. The first memory I have of the house we lived in after the duplex is me and my older brother exploring ourselves. It was more then a you show me yours and I’ll show you mine. I feel so ashamed about that and cannot figure out for the life of me WHY we did that?? I can remember touching my stuffed animals in inappropriate places and even doing the same things with another girl that was my age. I started having sex at a very early age, around 12, and haven’t stopped since. In fact, that is really the only risk taking behavior I have ever really had. From somewhere, and I don’t know where, it has been imprinted on my mind that if you care someone, that’s how you show it. I have never had any other experiences with my brother since that very young age, but I know that we did it more then once. I am just wondering were all this was coming from. I recently started having dreams of my brother and me now. I know, it sounds sick, but I can’t help it. This is also something that we have never talked about since it happened. I have also been having like these flashbacks of this man that used to come to the house that I don’t remember living in. (I know he was there from what my brothers have told me) In the scenarios, I am a little girl, around 5,6 or 7. I am yelling for my daddy, (my parents were separated at the time we lived in this house also) and a man in a police uniform, tucking me into bed and telling me to quit yelling and the he loved me and putting his hand over my mouth. I started to investigate this man and he was arrested in 2001 for 7 counts of indecent liberties with a minor spanning from 1976 to 2001. The accusers were girls that he babysat for other women and his daughter. I am just wondering if maybe my mind has blocked out the span of those years for a reason. Is that possible?? Is that why me and brother were exploring each other?? It would in fact explain a lot of my behavior. I have anxiety issues now, but I to scared to see a therapist. I am getting married in May and I am scared that if this comes out, he will think differently of me because of what occurred with one of my brothers?? It is possible I am freaking out over nothing??",
+        "situation": "There is a blur in my life that I absolutely cannot remember. I can remember right before I started school, when I was 4 or 5. Then there is about 2 or 3 years that is completely lost. I have a memory of me and my older brother exploring ourselves. It was more then a you show me yours and I’ll show you mine. I feel so ashamed about that and cannot figure out for the life of me WHY we did that?? I've recently started having dreams of my brother, and have also been having flashbacks of this man. Is my mind blocking out abuse? I am too scared to see a therapist. I am scared that my fiance will find out.",
+        "thoughts": "- I am disgusting.\n- I am a pervert.\n- Something is wrong with me.\n- I don't deserve to be loved.\n- A therapist would be disgusted if I told them.\n- My fiance would leave me if he finds out what happened with my brother and I.",
+        "core_belief_fine_grained": [
+            "I am defective",
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be abandoned",
+            "I am immoral",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "4637",
+        "ori_text": "I am not coping well with the grief of losing my son. He was charged of a double homocide in 2009 and is currently awaiting trial. I am mostly concerned with my inabiity to stop blaming myself. Logically,I know and tell myself that it is not my fault. However, there were signs that I should have paid attention to. Not to mention I ignored sound advice from experts to phone our local States Attorney and turn him in for probation violation. I found him unbearable to live with and knew something was seriously wrong. Why didn’t I see that if I couldn’t bare to be around him, mostly because of his torture to me and my family. Then it was only a matter of time that he was going to turn that terror onto others within the community. I should of known and I definitely should have listen to the experts. Now people are dead, because I failed them. Good and decent people. I want to be free again. I want to trust again. I want to live again",
+        "situation": "Now people are dead, because I failed them...I want to be free again. I want to trust again. I want to live again.",
+        "thoughts": "What happened is all my fault. I could have prevented this from happening. This was within my control to prevent. This is my fault. I don't deserve forgiveness. I don't deserve peace. I cannot trust myself. I cannot tolerate feeling this way.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am a failure, loser",
+            "I am worthless, waste",
+            "I am immoral",
+            "I don’t deserve to live"
+        ]
+    },
+    {
+        "id": "4632",
+        "ori_text": "Ive been depressed for 4 years now and Ive noticed that I have changed dramatically as a person. Right now though, the thing that bothers me the most is that I seem to find it hard to maintain a friendships. And Ive been told its because I don’t trust. Before I was depressed, I never had issues. I never doubted my friends. I took their yes as a yes. Now my mind analyses everything to an extent where I get terribly drained and tired from all the thinking. I was such a simple person before depression. And I dont like being like this because Im making things hard for my friends..because Im always doubting them OR guessing things that I think they might be thinking..which 99% of the times are wrong. Why do I have doubts? If I love my friends like I know I do, why do I analyse everything, and say if this, if that etc. I was never an insecure person…does this mean I am now? I want things to be simple..but depression makes it so hard. I feel like I should isolate myself from others..because I cant be a true friend if I cant truly trust them. I make life hard for them. And I dont want too. Maybe Im too over protective.Maybe Im too attached to the extent where I go over board. I dont know. Im sure its all depression related..but how can I trust my friends more.. or at least..not show them my doubts. Please help.. thank you for reading..",
+        "situation": "And I dont like being like this because Im making things hard for my friends..because Im always doubting them OR guessing things that I think they might be thinking..which 99% of the times are wrong. Why do I have doubts?",
+        "thoughts": "It is wrong to have doubts. If I have doubts, I must act on them. My behavior and emotions are fused. I am not capable of challenging my thoughts or emotions. Feeling insecure is wrong. Feeling insecure will ruin my life. I have no control over this.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am needy",
+            "I am out of control",
+            "I am bound to be rejected",
+            "I am bound to be abandoned"
+        ]
+    },
+    {
+        "id": "4514",
+        "ori_text": "I am a 33 year old with a father who is schizophrenic. He was diagnosed as a young adult but remembers hearing voices as early as the age of 13. He is now in his late fifties and he is beyond caring for himself. The last 4 or 5 living situations he was in (apartments) he was evicted for strange behavior like melting cassette tapes in the oven and starting a minor fire and bothering neighbors , including many other things. He stopped with all hygeine practices. He stopped being able to pay bills do to poor money mangement and lack there of. So he squatted with a few friends all of whom eventually sent him packing not at first realizing the extent of his illness. So after every fallout with his friends whom he has been staying with he ends up at my door with a police escort after they find him wandering the cold streets late at night. I live in a 1 bdrm apartment with my girlfriend and two large dogs. I am not equipped to deal with another person in such confined quarters let alone his illness. As you probably have guessed he refuses medication as well as his illness. He has other health issues that I know nothing about and he will not see a doctor, especially with me present. He has a ventalin inhaler that is prescribed to him that he uses way more than he was origanally suppossed to , along with smoking two + packs of cigarettes a day. He can barely walk ten steps without being seriously out of breath. My father needs help that I can’t give him and all the calls I’ve made trying to find help has come to the same roadblock. Someone can’t be forced treatment. I don’t know what to do. This has been going on for years. This is Saturday and he came via police escort Thursday night just before midnight. I had to call off work Friday because I can’t leave him alone at my apartment in fear he will do something and get me evicted, or worse. I’m at the end of my ropes and don’t know what to do. I can’t just send him out on the streets but it is affecting my happiness and comfort in my home which is very important to me. My girlfriend is supportive about it but it has already caused a strain. Sorry for the lengthy note but I really don’t feel like I even grazed the surface. If there is anyway you can help with resources or ideas it would mean the world to me. Thank you.",
+        "situation": "I live in a 1 bdrm apartment with my girlfriend and two large dogs. I am not equipped to deal with another person in such confined quarters let alone his illness.",
+        "thoughts": "This is too hard. Parents are supposed to take care of their kids, not the other way around. There’s no space in my life for an adult that acts like a child. I don’t know what to do. I can’t leave him alone cause I’m afraid he will ruin everything. This is already causing negative consequences in my personal relationship and at my job. I feel trapped – like there’s no solution to my problem that doesn’t involve being a horrible person by kicking him out.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am trapped",
+            "I am out of control"
+        ]
+    },
+    {
+        "id": "24",
+        "ori_text": "Hello and greetings. I hope somebody can demystify this for me, since I suspect I’m suffering from mild anxiety or something else, such as simple boredom. It feels like I have writer’s block on all the time, and part of my brain constantly feels unused, inactive and asleep, as if on constant autopilot for the whole day.",
+        "situation": "Suffering from mild anxiety or another condition, and boredom. Feeling like I have writer's block all the time, and a part of their brain feels unused, inactive, and asleep, as if on constant autopilot throughout the day.",
+        "thoughts": "I am always an anxious mess.\nI am a terrible writer, I will never fulfill my passion.\nI am a waste.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am helpless",
+            "I am a failure, loser"
+        ]
+    },
+    {
+        "id": "23",
+        "ori_text": "I’m quickly destabilizing my mood has gotten uncontrollable, I’ve talked to my therapist/clinician or whatever and they said they would keep me where I’m at as far as medication goes. I was in a psychiatric hospital months back and they had me on three different medications and I felt kinda good, but now I’m just on a 1 mg risperidone, and it doesn’t do anything anymore. I was on lithium, ativan, and seroquel, before I had a mental breakdown and over dosed before they took me off the medication. I really feel the need to be back on an anti-anxiety, and mood stabilizer, maybe even anti-depressant. The thing is no one cares what I have to say and my family is basically toxic af, they tell me everyone gets angry, deal with it. I am finally seeking help from online before I end up killing a bunch of people and this turns into a full blown tragedy. What do I do when no one listens to me? I’m not going back to that psychiatric hospital because it was a waste of time and money. I need medications but no one cares until I end up doing something completely insane. Nobody cares what I have to say unless its a full blown crisis situation. Everyone thinks I’m doing fine but In reality I’m having a terrible time, and want to kill people, burn buildings, basically try to bring in the second coming. How can I find someone who will listen and get me put on a pill that actually works?",
+        "situation": "The situation: The individual is experiencing destabilized mood and feels that their current medication, 1 mg risperidone, is ineffective. They express a need for additional medication, such as an anti-anxiety, mood stabilizer, or antidepressant, but feel unheard by their therapist/clinician and family. They have a history of being on multiple medications, including lithium, Ativan, and Seroquel, and have had a mental breakdown and overdose in the past. They fear that without proper medication, they may end up harming others and are reaching out for help online.",
+        "thoughts": "No one ever understands me.\nI am better of dead.\nI am worthless, why wont medication even help me.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am trapped",
+            "I am a failure, loser",
+            "I am worthless, waste",
+            "I don’t deserve to live"
+        ]
+    },
+    {
+        "id": "4680",
+        "ori_text": "I am currently married but separated from my husband who has ADD, has had it since he was a teen, but I jjust found out about this diagnosis after we were married and experiencing serious paranoia problems, control issues, and domestic violence with severe emotional abuse and physical intimidation. My husband thoughts are constantly paranoid about me cheating on him for no cause at all, he is two different people but I see less and less of the good person, he is rageful, threatened to kill himself, and the list goes on and on. Our last marriage therapist told me to leave and that I was in serious danger, she was concerned for my safety. We had 2 marriage therapists say they felt he had a personality disorder with antisocial tendencies. I have read books about antisocial and narcissistic personality disorders and ADD. They seem to all desribe him to a T. My husband is in his mid 30’s and in special forces active duty in the US Military. He is on his fourth medication……from paxil to provigile to aderal now to cymbalta and none have made a dent in his compulsiveness or paranoid behaviors or ragefulness. How do I know if he has ADD or a personality disorder? I am struggling with the decision to divorce because I don’t know what end is up or down.",
+        "situation": "I am separated from my husband who has ADD, he experiences serious paranoia problems, control issues, and domestic violence with severe emotional abuse and physical intimidation. How do I know if he has ADD or a personality disorder? I am struggling with the decision to divorce because I don't know what end is up or down.",
+        "thoughts": "- I should be a good wife and support my husband through his mental health issues.\n- I may end up alone if I leave him.\n- Finding out my husband's exact diagnosis will help me decide whether to divorce him.\n- I deserve this. Maybe my husband wouldn't treat another person like this.\n- I am trapped in this marriage.\n- There is nothing I can do about this.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am trapped",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "7",
+        "ori_text": "From a woman in the U.S.: I had a dream that seemed so real. Someone shot my boyfriend in the stomach and he threw up. After the man shot my kids father he came to me and stood over me for what seemed like a life time. My heart was racing so fast I mean I could literally see the guys face but I have never seen him before in real life. I was sitting across the street from where my boyfriend was shot. I remember for some reason sitting on a blue bench, holding a box, that was filled with snacks. (I never hang around outside on corners) I begged him not to shoot me because I had two babies right up the road. He still shot me in my head it felt so real.. I seen the flash from the gun, I felt the hot bullet; go through left side of my head, (right behind my hair line) and i also felt the the bullet come out of the my right side of my neck/underneath the chin. I could also feel the warm sticky blood coming from my head and neck. He shot me again and then i woke up.",
+        "situation": "Having nightmares of being shot, husband being shot, and kids in danger. This dream is so vivid its almost life like and feels surreal. I can picture all the gore and blood involved as this man hurt my family!",
+        "thoughts": "I will never be safe.\nI am dreaming so this must be something that will happen.\nI am in danger, I can not go anywhere now.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am a victim"
+        ]
+    },
+    {
+        "id": "4524",
+        "ori_text": "My boyfriend of three years and I have had a rocky relationship. We enjoyed the usual bliss when we first got together, however after talk of serious commitment came up and we moved out together last year, I saw an ugly side of him rear up! He mentally and physically abused me, and I felt trap with him because of our lease and my continued feelings of conflicted affection and love for him. Finally, after he told me that he wanted to break up last October, despite still living together, I began to mentally distance myself from him to avoid being hurt furthermore.",
+        "situation": "He mentally and physically abused me, and I felt trap with him because of our lease and my continued feelings of conflicted affection and love for him. Finally, after he told me that he wanted to break up last October, despite still living together, I began to mentally distance myself from him to avoid being hurt furthermore.",
+        "thoughts": "I was trapped in a lease with my abusive boyfriend until he broke up with me. We still lived together, but I kept a safe distance. That way, I could protect myself from getting hurt by him again. I always thought he’d realize what he had lost and we could go back to the way things were before we talked about commitment. I thought if he loved me enough that he’d try to be better. I guess he didn’t and I wasn’t worth the trouble.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am defective",
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be alone",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "70",
+        "ori_text": "From a teen in the U.S.: For as long as I could remember I liked being alone. I think it’s starting to really effect me though as I start to get older and enter the adult world. Every time I’m out with friends I feel uncomfortable and awkward. I always feel like I’m putting a front or an act in front of everyone I speak to and I could only feel at ease when I’m at home by myself. When I’m alone I feel as though I don’t think. Like I’m just alone in my room for hours imagining a better life and different scenarios of my pretend life when really I’m just laying in bed doing nothing. Is that normal?",
+        "situation": "This client is struggling with anxiety and avoidance surrounding social situations.",
+        "thoughts": "I am boring, no one will like me if I am myself, I am better off alone, I am awkward.",
+        "core_belief_fine_grained": [
+            "I am bound to be rejected",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "4616",
+        "ori_text": "I am very anxious when I talk to people, and tend to blank out, or just go mute. I want this to stop, please help! When I talk to somebody I get very anxious, my palms sweat, and I never can think of anything to say. I used to be a very outgoing person, now I seem to be unable to talk to anybody I do not know. I have tried many things, for example going out of my way to talk to people I don’t know, but either nobody responds, or I just go blank. I really want this to stop, I want to have friends like I used to have!",
+        "situation": "I want this to stop...When I talk to somebody I get very anxious, my palms sweat, and I never can think of anything to say.",
+        "thoughts": "I cannot tolerate feeling anxious emotions. I cannot tolerate feeling anxiety in my body. I cannot feel fulfilled and experience anxiety, it has to be one or the other. It is wrong for my palms to sweat. It is wrong for me to have difficulty thinking of what to say. I am currently defective and this must change. I need these symptoms and feelings to go away in order to feel okay. I am bound to be rejected like this.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am out of control",
+            "I am defective",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "36",
+        "ori_text": "My girlfriend’s male best friend has been sleeping over at her house. See, he recently moved into my house, and since he’s moved, he’s spent more time at her house than anywhere else. I’m perfectly okay with them hanging out, I’m glad she has such a good friend. But at the end of the day, I really am not okay with him sleeping over at her house when I’m not there. (Question from Canada)",
+        "situation": "My girlfriend's male best friend has been sleeping over at her house frequently, especially since he recently moved into my house. While I'm glad she has such a good friend and I'm okay with them hanging out, I feel uncomfortable with him staying over when I'm not there.",
+        "thoughts": "I feel they are hiding things from me.\nI cannot trust people sometimes.\nThey are doing things, and talking about me behind my back.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am trapped",
+            "I am undesirable, unwanted",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "4644",
+        "ori_text": "Everything just seems to be slipping out of my grasp lately. I love my girlfriend with all of my heart and our relationship’s on the rocks. It’s all my fault most likely all i do is constantly worry about everything. She gets mad when i cant trust her yet shes always lieing to me about things. I don’t like it when she drinks, not only is she underage but something always bad happens when she does, and she lies about drinking.",
+        "situation": "It’s all my fault most likely all i do is constantly worry about everything.",
+        "thoughts": "I should be able to control others around, and when I cant, I cope with it by worrying. If someone is making decisions I disagree with, I should worry. There is something wrong with me that I can't control others. I am doing everything wrong.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am helpless",
+            "I am out of control"
+        ]
+    },
+    {
+        "id": "4590",
+        "ori_text": "I have been dating this guy for 10 months and to be honest although it has been rocky(he was drunk and cheated on me once in the summer, one night he was too drunk and ended up sleepwalking in my apartment and saying things that were very hurtful), normally he is one of the nicest people I have ever known. He has also had down periods where he wasn’t sure he liked his job and was a little depressed. Through it all I forgave him and tried to help him through all of it.",
+        "situation": "I have been in my relationship for 10 months and have experienced being cheated on and hurtful comments but he is also the nicest people ever.",
+        "thoughts": "I have to forgive my boyfriend because I do not want him to leave me. All of this is normal.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am unlovable",
+            "I am bound to be rejected",
+            "I am bound to be abandoned"
+        ]
+    },
+    {
+        "id": "4619",
+        "ori_text": "So much has happened in the last month I am not quite sure where to start, but here it is. Over the Christmas period my boyfriend was slightly distant, we live together but for Christmas day he went to his parents and I went to mine. He then came to my parents on Boxing day and although we all had a lovely day I noticed he was distant. Things seemed ok after that, however before Christmas he complained of an upset stomach and had not eaten much at all the week before Christmas. We put it down to a stomach bug as there seemed to be a lot going round but he was reluctant to go to the doctor. This ‘stomach bug’, however, then continued after Christmas.",
+        "situation": "...although we all had a lovely day I noticed he was distant...",
+        "thoughts": "I am confused by this situation, I do not know how to interpret this or respond. I cannot trust myself. I cannot trust my own thoughts about this.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am powerless, weak, vulnerable"
+        ]
+    },
+    {
+        "id": "4654",
+        "ori_text": "I have always dealt with anxiety issues throughout my life, I am just beginning to learn that I had it though. I have all the symptoms of SA, sweaty hands, weak voice, fear of talking to others, and pretty much every other symptom as well. This anxiety has really affected my life. When it is at its worst, I can hardly get out a rational thought, it just keeps building on itself. It feels like the world is collapsing in on me. That is why I stay inside a lot, and play my video games. I hate being stuck inside though, I would love to be able to go out and just enjoy myself with my friends.",
+        "situation": "My anxiety has really affected my life. When it is at its worst, I can hardly get out a rational thought, it just keeps building on itself. It feels like the world is collapsing in on me. That is why I stay inside a lot, and play my video games.",
+        "thoughts": "I can't handle this. The world is collapsing in on me.\nI am powerless over my anxiety. \nWhen I feel anxious, I need to stay inside. It's the only place where I'm safe.\nI can't enjoy myself when I feel anxious.\nMy friends wouldn't want to talk to me when I feel this way.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am out of control",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "4577",
+        "ori_text": "I am in a 2-years-long relationship with my boyfriend, who is my very dear friend and I think he needs help. We are both 23 years old, live in Serbia, and everything seemed just fine (we did not argue, we had great sexual life, we talked a lot etc.).",
+        "situation": "I am in a long term relationship and everything has been good but now I am worried about my boyfriend",
+        "thoughts": "My boyfriend needs help. The problems in our relationship are because of him. If he gets help our relationship will be good again",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a victim"
+        ]
+    },
+    {
+        "id": "4691",
+        "ori_text": "I am always feeling like I am making wrong decisions. I suffer frequent headaches and when I do, I feel like I have done something that has angered or upset God. I am taking prescription meds for the headache, depression, and anxiety, but it doesn’t always work. I believe that God heals, so why won’t He heal me? I feel like the reason He won’t heal me is because He is mad or upset with me for something I did or did not do. I am constantly in fear because I don’t know what I’ve done wrong. I speak with my pastor and other Christians who all say God isn’t mad at me. But if He isn’t mad, why am I continuing to suffer? I want to do His will in my life but I don’t know what it is, and feel that may be the reason for my punishment. In the biblical sence, I am supposed to put others first before myself. But my doctors, therapists, and family all tell me that I need to come first before I can help others. How can I care for my own health as well as other people’s needs as a Christian should? I am actually having anxiety as I write this because I am afraid that God will be mad at me or upset with me if I send it,possibly because I am under the impression that Christians are supposed to be happy all of the time, and not sick or stressed. How can I be a good witness for God if I am anxious, and panicky all of the time? Please help! I need peace!",
+        "situation": "I suffer frequent headaches and when I do, I feel like I have done something that has angered or upset God. I take medication but it doesn't always work.",
+        "thoughts": "- I deserve to be punished.\n- I am a bad person.\n- I have made poor decisions.\n- I am not allowed to make mistakes.\n- I do not deserve to take care of myself.\n- I deserve all the suffering that comes my way.\n- I should not have needs.",
+        "core_belief_fine_grained": [
+            "I am unlovable",
+            "I am worthless, waste",
+            "I am immoral",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "4682",
+        "ori_text": "Good day. I am an 18 year old Pakistani girl.My mother has been receiving treatment for schizophrenia for almost 25 years .She is a very unique case . She was an extremely brilliant student and was admitted to a well reputed medical college . There , she was unable to adjust because of a sort of phobia of flesh and dead bodies( which were included in anatomy dissections ),watching deliveries worsened her condition leading to a decision of abandoning the medical studies. She graduated privately and joined the teaching profession. She had always been an aggressive person .She was also very arrogant as she was a perfect beauty with brains women. Finding out about painless delivery she agreed to get married .She married my father( it was an arranged one).She has revolting point of views about religion, and lives in her own fantasy world .She sort of thinks that every man is after her. She also thinks that people are conspiring against her. She hates her her mother and her brothers .She has been receiving treatment from various psychiatrists but nothing has helped much.She is currently in an institution called Fountain house. But she does not cooperate much with her therapists as she thinks that she is much more intelligent than them.She does not accept her disease and thinks she has Insomia only. Another thing is that she cannot sleep for more than 3 hours a night without medicines. Presently she is taking 5 anti- psychotics .The names and doses are listed below: ziapine 100 mg 4 daily seductil 100 2 daily Ativan 2 daily Neurolith 1 daily Dosik 5 mg 1 daily Kempro 5 mg 2 daily Clonatril 2 mg 1 daily Injections ( fortnightly) Zyclidine 10 mg Fluefin Please do not disappoint me. I am myself a medical student and an only child .Dealing with my mother becomes very challenging as she is very very aggressive at times. Thanking you.",
+        "situation": "My mother has psychiatric problems and is in an institution. She is very aggressive towards me at times and I am an only child. She does not cooperate with her therapists and denies she has problems.",
+        "thoughts": "- Things will never get better.\n- It is my duty to take care of my mother.\n- If I had boundaries, that would make me a bad daughter.\n- I need to accept my mother's abuse.\n- I am trapped in this situation.\n- There is nothing I can do.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a victim",
+            "I am trapped"
+        ]
+    },
+    {
+        "id": "4639",
+        "ori_text": "For as long as I can remember I have been backwards when it come to sleep. Since I was 8 yrs old I stay up until 3A-6A and then sleep during the day. When I was younger I was forced to go to school but during high school I was allowed to do whatever, so I worked in the evening and then stayed up at night.",
+        "situation": "I have been backwards... I was forced...",
+        "thoughts": "My sleep habits are abnormal. I should feel conscientious and weird about my sleep patterns. I may be judged for being different. I regret or resent having been forced.",
+        "core_belief_fine_grained": [
+            "I am defective"
+        ]
+    },
+    {
+        "id": "4620",
+        "ori_text": "I have been suffering from bulimia for four months now. I realize the health risks and I know I have a problem. I have been trying to stop for a month now with no success. Before this problem I was healthy and now I fear that all my hard work I have completed over the years to be a healthy person are going down the drain. To be honest I am not sure what started my ED, but my main focus is to overcome it. I know that I have some self esteem issues and I will continue to work on that, but do you have any advice or tricks to stop these behaviors that have seemed to become habitual and uncontrollable. I know that getting professional help is probably the best way to go, but that is not me. I have always dealt with my problems in the past and I would like to give this a shot. So if you have any suggestions or tips to help me slowly stop these bulimic behaviors I would appreciate it so much.",
+        "situation": "I fear that all my hard work I have completed over the years to be a healthy person are going down the drain...I know that I have some self esteem issues and I will continue to work on that, but do you have any advice or tricks to stop these behaviors that have seemed to become habitual and uncontrollable.",
+        "thoughts": "My hard work will be lost. There is no way to pull wisdom from my journey up to this point that will help. I need concrete strategies over insight. Working on my self esteem is not correlated to my ED. My self esteem issues are not that bad. I want an easy and quick solution to this problem. I am not ready to go in depth to truly heal what is causing my ED. I am more motivated by short-term gains than by long-term gains.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a failure, loser",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4526",
+        "ori_text": "I am worried because I have never been able to make friends very easily. When someone tries to talk to me, I get so nervous about what they think of me that I end up seeming uninterested or maybe even snobby, probably. Im always thinking that people are talking behind my back or thinking badly of me. Whenever someone in whispering to another person, I pretty much assume that they are talking badly about me, and I panick.At school, I get so caught up worrying if I smell bad or If my makeup is smeared I immagine everyone is looking at me funny. I dont even really show any emotion, either, when im around people(especially when I am anxious). I dont talk to people about how I feel because It makes me feel vulnerable, I guess. My anxiety used to be worse a couple of years ago, but now im just paranoid. Im always thinking that people think im a loser, and I wont leave the house without makeup, because i am horrified about what other people think about me.",
+        "situation": "My anxiety used to be worse a couple of years ago, but now im just paranoid. Im always thinking that people think im a loser, and I wont leave the house without makeup, because i am horrified about what other people think about me.",
+        "thoughts": "Because my anxiety felt worse before, this must be a normal level of anxiety and paranoia, so my conclusions make more sense. People do think I’m a loser or that I’m ugly. I at least wear makeup so they can’t see how ugly I am, and if I avoid people altogether, then they won’t know how much of a loser I am or how boring I am. I don’t like who I am, and whatever people think of me is probably way worse than I think it is.",
+        "core_belief_fine_grained": [
+            "I am a failure, loser",
+            "I am defective",
+            "I am unlovable",
+            "I am unattractive",
+            "I am undesirable, unwanted",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4611",
+        "ori_text": "About 12 years ago before I got married I cheated on my boyfriend who is now my soon to be ex-husband with a married man. I never told anyone the truth about it or should I say I never admitted it to anyone. Everyone basically knew it happened. I lied about it up until about 1 year ago when I met my soul mate. I love this man so much. I never loved anyone like this before. I met him while I was still married to my husband. I swore I would never cheat on my husband because I never forgave myself for cheating on him with the married guy. I broke up that guy’s marriage and I didn’t love him. I hated myself for that. I ended up marrying my husband. I think I married him to hide what I had done.",
+        "situation": "I never told anyone the truth about it or should I say I never admitted it to anyone... I swore I would never cheat on my husband because I never forgave myself for cheating on him with the married guy... I hated myself for that.",
+        "thoughts": "I feel guilt for what I did. I blame myself for what happened. I am a bad person. I regret what I did. I wanted to make amends for what I did. I am only worthy of love if I hide my past mistakes. I feel shame for what I did.",
+        "core_belief_fine_grained": [
+            "I am bound to be rejected",
+            "I am bound to be abandoned",
+            "I am immoral"
+        ]
+    },
+    {
+        "id": "4669",
+        "ori_text": "I get so anxious and nervous that it’s hard for me to make friendships. And it’s hard for me to keep friendships. I can’t give presentations in school. I just want my last years of high school to be fun, I want to be able to get through the day without feeling like I’m alone or made a mistake. I want to stop being anxious and feel normal. I feel like I cut myself off from other people because of my fear of rejection and my anxiety. I want it to stop.",
+        "situation": "I get so anxious and nervous that it’s hard for me to make friendships. I feel like I cut myself off from other people because of my fear of rejection and my anxiety.",
+        "thoughts": "- Everyone is judging me.\n- No one would want to be my friend.\n- Everyone can tell how nervous I am right now.\n- People will reject me.\n- I don't deserve to be loved.\n- I am not the kind of person who knows how to have fun.\n- There is something wrong with me. I am not like other high school kids.\n- I am a loser.",
+        "core_belief_fine_grained": [
+            "I am a failure, loser",
+            "I am defective",
+            "I am undesirable, unwanted",
+            "I am bound to be rejected",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "0",
+        "ori_text": "From a teen in Australia: This story is incredibly long but I’m going to do my best to cut it down and only include the most important bits. When I was 14 and in a very low place, I met a teacher at my school. She was around 30. I didn’t think much of it at first, but eventually I kept talking to her more and more and seeing her around. We grew close quickly and for some reason I just felt connected to her. One day I received a text message from her as she had gotten my number off another student.",
+        "situation": "A 14-year-old teen is experiencing a low point in their life. They have formed a bond with a 30 year old teacher at school. The teen is feeling connected to her. The teacher took it upon herself to get his number and reach out to him.",
+        "thoughts": "I am not good enough for someone my own age.\nNobody understands me like she does.\nI must be very special if she is wanting to talk to me.",
+        "core_belief_fine_grained": [
+            "I am unlovable",
+            "I am bound to be rejected",
+            "I am bound to be abandoned"
+        ]
+    },
+    {
+        "id": "4701",
+        "ori_text": "I am a 28 year old single mother of two who lives with her parents. I graduated from college in 2008 but have not been able to find a job at all. I don’t have anybody at all. I had to move in with my parents because my ex was abusive. I have been suffering from depression for about three years. I can’t go and talk to someone because I have no money or insurance. I have insomnia and have been hallucinating. I find myself being irritable and lashing out in anger. I haven’t bathed in about a month. I’m afraid to go outside and I stay in my room in bed all day. I have constantly thought about death everyday, I like to cut myself. My parents get mad at me because they do not want to hear what is going on with me.My dad attacked me one day and my mother called the cops on me. I am so lonely. I just cut all my hair off today. I feel so lost and incapable of doing anything at all. I hate myself and my life. I want to always kill myself. I can’t get a job because I don’t have enough work experience. I don’t know what to do or where to turn. Help me! I feel like I’m drowning. I feel guilty and like a failure in life. I feel out of control. My brother tells anybody who will listen that I don’t do anything and am lazy. I can’t get over the only man I have ever loved and he dumped me 3 years ago and is married. I’m just a wreck. I feel like I’m crazy.",
+        "situation": "I am a 28 year old single mother of two who lives with her parents. I graduated from college in 2008 but have not been able to find a job at all. I don’t have anybody at all. My ex was abusive. I constantly think of death and I cut my self. I feel so lost and incapable of doing anything at all.",
+        "thoughts": "- I am a failure.\n- I am a bad mother.\n- I am lazy just like everyone says.\n- I am losing my mind.\n- I am trapped and powerless.\n- I am all alone and I will always be all alone.\n- I don't deserve to be loved.\n- I have no work experience so I will never get a job.\n- I am a waste of space.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am trapped",
+            "I am a failure, loser",
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be alone",
+            "I am worthless, waste",
+            "I don’t deserve to live"
+        ]
+    },
+    {
+        "id": "4653",
+        "ori_text": "I’m an Air Force veteran… separated from service in ’95 honorably. Since ’95,I’ve been through 14 jobs all told (9 welding, 1 maintenance and 4 odd jobs for cash). I liked the Air Force(welding/machinist) job and a mining machinery job the best… I’ve been released from probation during the maintenance job and fired from a welding job two years ago over a dispute with the boss about timeliness/quality of my work(which he was becoming more critical about). Most jobs I’ve been laid off from; however three weeks ago I was laid off from my last job after an anger episode I displayed after a project I was working on needed rework when I made a mistake due to not understanding what was to be done.",
+        "situation": "Most jobs I’ve been laid off from; however three weeks ago I was laid off from my last job after an anger episode I displayed after a project I was working on needed rework when I made a mistake due to not understanding what was to be done.",
+        "thoughts": "People are judging me, but I have the right to be angry.\nThis isn't my fault. \nI am the victim here.\nI can't help it; my anger is out of my control.\nMy bosses have it out for me.\nI'm a loser; I get laid off from most jobs.\nI can't hold down a job.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am out of control",
+            "I am a failure, loser",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4694",
+        "ori_text": "My wife (of 30 years) is an alcoholic, as her mother was. She has presently been drinking, she has about 12 hiding places. The alcohol makes her psychotic. She doesn’t know yet that I know she is drinking. Currently, we have a friend and his fiance living with us. Recently, from the drinking, she has turned against me although we haven’t had any issues in our marriage. She is telling my friend how she wants me to do, has said so a few times and why doesn’t he hurry up and have a heart attack. Talks terrible about me and has said terrible falshoods against me to some of her friends – all untrue completely. She recently has come to delusions that my friend and she have something emotional together and have had sex, but this has not happened. She talks to him about how she likes to give BJs and has some men she can get money from (?). She is buying alcohol daily right now and where she is getting the money, I don’t know – but I suspect it may be through sexual favors.",
+        "situation": "My wife of 30 years is an alcoholic. She recently has come to delusions that my friend who lives with us and she have something emotional together and have had sex, but this has not happened. She talks terrible about me. I suspect she may be doing sexual favors to buy alcohol.",
+        "thoughts": "- I deserve to be treated this way.\n- I am trapped in this situation.\n- I am not allowed to speak up for myself.\n- I am a loser for being in this marriage.\n- Nobody else would love me.\n- I have been married for 30 years; it's too late to start again.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am trapped",
+            "I am a failure, loser",
+            "I am unlovable",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "4588",
+        "ori_text": "First, some quick background. I am a male with a history of bad behavioral decisions that end up biting me in the rear, often months later. One decision I made in t past 6 months was to quit my job (no warning, no job to transition to) due to the treatment (high stress, high responsibility, low authority, etc.) I was getting. My blood pressure and blood sugars (Type 1 diabetic) improved over the next few months and I got a new job in December. But the stress of that decision put a lot more strain on my already brittle marriage. My wife is very money conscious (due to some bad money situations before we met) and this additional strain on her income was heavy. In the middle of this already Joyful experience, she demanded that we move to reduce her commute, as that wasn’t my problem anymore. I moved us and essentially completed most of the move before Christmas.",
+        "situation": "I am a male with a history of bad behavioral decisions that end up biting me in the rear, often months later. My career decisions have been negatively impacting my marriage.",
+        "thoughts": "I have to choose between happiness in my marriage and my career. It is my fault that things go poorly because I make impulsive decisions.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am trapped",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "15",
+        "ori_text": "From a teen man in the UK: Back in May, me and my girlfriend had a break up which ended quite badly. I’ve been with her for 3 years and it was quite a surprise when she wanted to end it because we had been having altercations. Anyways, i went round a friends house who lives opposite her house and the night took a turn and we was drinking and getting high. As i was leaving very intoxicated (which is not an excuse) i think my emotions got the best of me and i keyed her car. I instantly regretted this at the time and i couldn’t believe what i done. I still regret it to this day! I instantly wrote a letter of apology the next day and payed for any damage. Im not a nasty person, it was a complete moment of madness from me!",
+        "situation": "After experiencing a surprise breakup with your girlfriend of three years, emotions were running high. While intoxicated, you made a impulsive decision to key her car, which you deeply regret.",
+        "thoughts": "I am a terrible person.\nI ruined my life.\nMy life is ruined.\nI screw everything up.",
+        "core_belief_fine_grained": [
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be abandoned",
+            "I am worthless, waste",
+            "I am immoral",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "4516",
+        "ori_text": "I started going to therapy in December, after 3 other failed attempts. I’ve been consistent in going, and have really developed a rapport with my therapist. In my past, I have not been forthcoming with my feelings. I tend to hide, makeup stories of trauma to help cope with things that have happened. I was violently raped in college, and never told anyone about it.",
+        "situation": "In my past, I have not been forthcoming with my feelings. I tend to hide, makeup stories of trauma to help cope with things that have happened. I was violently raped in college, and never told anyone about it.",
+        "thoughts": "I was raped, so I don’t know if I can trust anyone again. If I do and something horrible happens, I don’t know if I could go on. I feel ugly, like everything is wrong with me. I’ve been hiding who I am because that trauma is the ugliest part of me. If I tell anyone what happened, they will judge me and reject me – and then I’ll be alone. So, I kept this ugly secret about myself and pretended everything was okay.",
+        "core_belief_fine_grained": [
+            "I am unattractive",
+            "I am bound to be rejected",
+            "I am bound to be alone",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "45",
+        "ori_text": "From a teen in India: It usually happens when I wake up and I can’t stop thinking it’s not that i have anything to think about or worry For but i just think about anything not necessarily negative just anything and then the mind shifts to another thing and another and it’s not the way we all think in the morning",
+        "situation": "When I wake up, I experience racing thoughts that jump from one topic to another rapidly, making it challenging to focus or start my day calmly. These thoughts aren't necessarily negative, but they can be overwhelming and disrupt my morning routine.",
+        "thoughts": "I can't stop my mind from racing, and it's exhausting.\nWhy can't I just have a peaceful start to my day like everyone else?\nI feel like I'm losing control of my thoughts, and it's distressing.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am powerless, weak, vulnerable",
+            "I am out of control",
+            "I am worthless, waste",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "4660",
+        "ori_text": "My Bf and I have been together for a little over a year. His mother passed away in Sept. after a tough battle with cancer. I was by his side through it all. She passed on Sept. 20, 2010. On Sept. 28, 2010 he and his father met with an insurance rep to discuss his mother’s long term care policy. On October 3-6 my bf would not talk to me. He would ignore my calls and emails. Then on Oct 7. He started talking to me again as if nothing had happened. When I asked why he hadn’t been talking to me he said he was sorry but that everything with his mom had arrived at his front door. I was understanding and sympathetic but I had a gut feeling that something wasn’t quite right. A couple of weeks later he was at my house and forgot to close his email…. yes I snooped.",
+        "situation": "I snooped in my boyfriend's email because I had a gut feeling that something wasn't quite right with him.",
+        "thoughts": "- I should not have snooped in my boyfriend's phone.\n- I am a bad person for snooping.\n- My boyfriend is going through the worst possible crisis, and I need to be the one to save him.",
+        "core_belief_fine_grained": [
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "22",
+        "ori_text": "I’ve been dating this guy for 2 years. When he is on it is great. We are able to talk about any subject and have lots of fun and what appears to be a deep connection – we talk about serious subjects, philosophies, growth, the meaning of life, etc. It’s very engaging. This goes on for a few months and then suddenly he turns off. One day I wake up and we are not connecting at the normal pace (i.e daily phone calls, a few texts, or plans for in person contact). The connection feels severed, there is an edge in his voice, and he is cold. I notice this, give it some space (2-3 days) and then intentionally and gently bring it up. Initially he is defensive but pretty quickly he will acknowledge that yes, he’s withdrawn and eventually some narrative will show up as a reason for the behavior – he felt I disrespected him (I was late returning a call), he felt I abandoned him (I had some trips and so I was out of town), he was nervous that I’d reject some of his behavior that he’d been hiding (he smokes occasionally), etc. The conversations come back on line and we talk about his feelings, needs, and better ways to communicate etc. He does have a therapist and I suggest he work on these issues with his therapist. Then everything goes back to normal until it cycles again.",
+        "situation": "I've been dating this guy for 2 years, and when things are good, they're great. We have deep conversations about various topics, share laughs, and seem to have a strong connection. However, every few months, he suddenly becomes distant. The usual daily communication slows down, his tone becomes cold, and there's a noticeable disconnect. After giving it some space and bringing it up gently, he admits to withdrawing and usually provides a reason for his behavior, such as feeling disrespected or abandoned. We address the issues, talk about feelings and needs, and find better ways to communicate. He has a therapist, and I encourage him to work on these issues, but the cycle repeats.",
+        "thoughts": "I am not enough for him.\nWhy do I always get hurt like this.\nI always get stuck in these endless cycles, and I am unlovable.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am a failure, loser",
+            "I am defective",
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "4592",
+        "ori_text": "My name is daniel and well im not sure how to go about this because i feel very insecure about it but im a male and everyday i feel like i was born the wrong way like i should have been a girl and i feel miserable and i have no one to talk to about this i was not abused i have read that is the case in many situations i have a great mother but my father has kinda been dissociated my whole life he has been around but like everything has been me and my mom since i can remember i have always identified more with females and idk i was wondering what i should do or maybe any advice would be helpful cus i would so much appreciate any help i have cried sooo many nights about this i know it sounds crazy or something but i have been fighting these feelings for years and im tired of fighting them anymore i used to hide it from everyone due to fear of being ridiculed for it but i cant anymore i have read that are options and such but i havent found found anything READ wise at least that i see what should i due please help me i would be soo thankful . ummm i hope i hear from someone thank you.",
+        "situation": "Im a male and everyday i feel like i was born the wrong way like i should have been a girl and i feel miserable and i have no one to talk to about this i was not abused",
+        "thoughts": "Something is wrong with me and I am crazy. If I share my feelings, I will be ridiculed.",
+        "core_belief_fine_grained": [
+            "I am defective",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "4665",
+        "ori_text": "…counting to certain number, punishing myself for something that didn’t go right. I’ve been constantly checking my drawers on my dresser and night stand about at least 5 to 10 times. And also my closet door to see if it has been shut properly i do this also about 5 to 10 each. Also i will check my alarm clock up to 6 to 7 times. And i will also count up to the number 37 times every night on my alarm clock. I do this in the same order every night before i go to sleep. And it seems like i can’t stop myself from doing this. I tried a few times but evertime i would try if feels like i want to punish myself for it. Also if something doesn’t go right i will also have a feeling like i want to punish myself or hurt myself for this. I would like to take an antidepressant but i’m afraid to because i have epilepsy and i don’t want it to cause any seizures. I feel to ashamed to tell my parents or anybody i know i’m even to ashamed to tell my family doctor about this. I’ve been feeling this way since i was about 24 years i’m now 32 years old i was just wondering if there is any other treatment for this besides taking an antidepressant?",
+        "situation": "I am counting and checking things, and I can't stop myself from doing this. I've tried, but every time I try it feels like I want to punish myself for it. If something doesn't go right I have a feeling like I want to punish myself. I feel too ashamed to tell my parents.",
+        "thoughts": "- I am out of control.\n- If I don't check or count things in the exact right way, then something bad will happen and it will be my fault.\n- I need to punish or hurt myself if I make a mistake.\n- This is shameful behavior and people, including my parents, would judge me for it.\n- I have no power over changing my behavior.\n- Something is wrong with me.\n- I feel wrong when I don't count/check, so that means something terrible is really happening.\n- I deserve to be punished.",
+        "core_belief_fine_grained": [
+            "I am out of control",
+            "I am defective",
+            "I am bound to be rejected",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "4673",
+        "ori_text": "For the past two and a half years I’ve had problems with depression–it’s been mostly episodic although not entirely. My junior year of high school I was depressed (sad, apathetic, irritable, indecisive, guilty, empty, having nausea and headaches)on and off, but in addition to the general feelings of low mood I’d have these brief episodes of extreme dysphoria– I was really agitated and felt desperate and hopeless and suicidal and empty and hollow. They lasted a few hours, and there was no trigger of any kind. The next year I didn’t have any of these episodes but had general depressive symptoms on and off. Over the summer before heading to college, I had a pretty severe panic attack, because I was experiencing chest pain and was afraid I was having a heart attack. I’d never had a panic attack before, and I went to the ER. I had an EKG and bloodwork, which was all fine, but after the panic attack I experienced extreme hypochondriacal anxiety and depersonalization for about a month. I also developed visual snow, which hasn’t gone away. I’ve been hypervigilant ever since the panic attack, and when I went to college the hypochondria came back and stayed for about a month and a half.",
+        "situation": "I have had a series of mental health problems, including depression, suicidality, panic attacks, hypochondria, visual snow, and depersonalization.",
+        "thoughts": "- I am unsafe.\n- I will have a panic attack again.\n- I am out of control of my feelings.\n- Something is wrong with me.\n- I will never get better.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am defective"
+        ]
+    },
+    {
+        "id": "66",
+        "ori_text": "I was fine until 7th grade ended, and then its like my memory jump skips to constantly being worried and miserable. When I was going through 8th grade I reached a point were I decided to work on what was bothering me so I could be better, but thats when I realized I had no idea what was bothering me. Looking back before all of this started though I’m not sure if I ever was fine, when I was younger I never considered any other kids to be my friend really, a lot of adults though. I did eventually move to a place were I kinda grew comfortable with everyone, and while I used to consider that time to be the peak of my life, looking back there were still flags then to. Im not exactly sure when, but between 2nd and 5th grade I developed maladaptive daydreaming, and while I felt fine for some reason little me felt compelled to feel emotional pain, I used to purposefully seek out depressing content to put myself in a bad mood, I honestly still kind of do this. During this time I developed a crush in which I became obsessively and honestly kind of creepily attached to him which drove him away from me in the long run,(this repeated in 7th). Anyways after 5th grade I moved away from that place to somewhere else, I got adjusted and made new friends and everything seemed fine until 7th grade ended. Going into 8th I originally had hope, I hoped I go back and I’d fall back into the old groove of things and everything would be fine, but when I got back it was just more issues. I didn’t trust anyone, every time I was with my friends I just felt alone, and I figured they probably wanted me gone so they could actually have a good time. My anxiety, (that was previously nonexistent), was at its peak, i’d have shooting pains, hypnic jerks, and would frequently fall into states of depersonalization/derealization. I finally came to the conclusion that the way to stop hurting, was to stop caring. I’d repeatedly tell myself, I don’t care about anything, I don’t care about anyone, in hopes that I would believe it, I’m not sure if that had any effect on me, but after 8th grade ended I just stopped caring. I still had symptoms of anxiety and depression, but they were no longer manifesting themselves into physical symptoms. I still felt unwanted by my group of friends so I just stopped hanging out with them. I wouldn’t say I felt happy, but I wasn’t miserable, I was just kind of done I think. Going into high school I still didn’t really have any friends because I was to scared to talk to anyone, and when they made an effort to talk to me, all I could think in response to there advances were one word answers. I started to grow more fearful of the future as I realized that my childhood was running out and I had no idea what I want to do with my life. I know people say pursue a career in your interests but nothing interests me. If I could truly do anything in life, I’d find a secluded area from everyone so I could listen to music and be alone to my fantasy world. I guess that’s kind of were i am now, done, and fearful of the future. I can recognize that not all my thoughts are correct and 90% of the bad things that im convinced everyone feels about me, are probably caused by my anxiety, but even being actively aware of that I still don’t feel any different. I just hope that someday I can be normal, I fear that all I’ll have to remember my teenage years, is me sitting alone in my room listening to music. I wish I could go to social outings and take risks, and have new experiences, and I realize for that to happen I have to take the initiative, but everytime I get handed a chance to do those things I shy away from them because in the moment that all sounds like a terrible idea to me because I much rather be left alone, and its not until later that I regret it. A part of me wonders if this all karma, and I’m actually a bad person, or a narcissist thats suffering the consequences of her actions.",
+        "situation": "This client is struggling with feeling worthless which is leading to unfulfilling social interactions and a poor sense of self.",
+        "thoughts": "I am worthless, nobody wants to be my friend, I am boring, people are better off without me, I am not normal, something is wrong with me, I am not like other people, I have no friends.",
+        "core_belief_fine_grained": [
+            "I am a failure, loser",
+            "I am defective",
+            "I am undesirable, unwanted",
+            "I am bound to be rejected",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "4522",
+        "ori_text": "I don’t know what to do. I have been seeing my therapist for 3 years. I suffer with body image issues and distorted eating. My therapist has always been thin/healthy. Sometimes her weight drops and I am very sensitive to it. We have talked about it before and I am very open with it if I feel triggered by her. I saw her today and she looks like an eating disordered patient. She said she is aware of it and working on it. She said she has medical issues that make her body do things if she’s not careful and stress plays a part. I believe she is OK and she will work at getting back up to a healthy weight, but its really hard for me to make sense of. Why can she look like that but I have to work to keep myself healthy? Why are such high expectations put on me that she doesn’t live up to? She is my biggest role model, and all I can think of at this moment is starving myself until I look like her. She is happy, successful, smart, has a family and is pretty. She said, I hope you’re not jealous of this (her body) and she said that she wished she was in a different place. I just can’t get the picture of her out of my mind. Oh and she’s been getting sick a lot recently. It scares me. I want her to be healthy. She’s MY motivation to be healthy. But when she’s not…my motivation goes away and I want to restrict. How do I make sense of this?",
+        "situation": "I believe she is OK and she will work at getting back up to a healthy weight, but its really hard for me to make sense of. Why can she look like that but I have to work to keep myself healthy? Why are such high expectations put on me that she doesn’t live up to? She is my biggest role model, and all I can think of at this moment is starving myself until I look like her.",
+        "thoughts": "She’s skinny, so why can’t I be skinny? It’s not fair that she gets to be skinny and unhealthy and happy and successful and pretty. She said she has medical issues, but I think she might be restricting her eating just like I do, and that’s why she has been getting sick lately. If she can’t stay healthy, then neither can I. If I can get my body to look like hers, then I’ll be happy, successful, and pretty, too! Kind of seems like therapy is having the opposite effect. It’s too hard to be healthy if my therapist can’t do it.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am unattractive",
+            "I am undesirable, unwanted"
+        ]
+    },
+    {
+        "id": "4615",
+        "ori_text": "I have been with my boyfriend for 4 years and I love him very much. He is a wonderful person and my best friend, but as we are starting to consider getting engaged, I am finding myself very concerned with the negative aspects of our relationship. He is bipolar and not medicated and is not seeing a counselor. He is unpredictable and volatile. One day can be amazing and another I can be afraid or so frustrated I want to just leave. Lately I have found myself looking at other men as potential partners and I feel like I am cheating (even though I have not acted on anything). We have fought about this one issue in our relationship for 4 years, about him not being open about his disorder but blowing up on me and expecting me to just sit back and take it, with no confrontation. I feel that he is not maturing or growing in this relationship. While I love him and genuinely want to grow old with him, I am fearful that this is not intelligent of me to do, nor practical to marry someone who is bipolar and seeking no treatment. What can I do? I have tried talking to him in multiple manners from different angles and he always blows up or hides in himself. I have seen a therapist about this issue and I am still so confused.",
+        "situation": "I love him very much... He is a wonderful person and my best friend...While I love him and genuinely want to grow old with him, I am fearful that this is not intelligent of me to do, nor practical to marry someone who is bipolar and seeking no treatment... I have tried talking to him in multiple manners from different angles and he always blows up or hides in himself. I have seen a therapist about this issue and I am still so confused.",
+        "thoughts": "Because I love him, I think I should stay with him, despite logically seeing why I should not. I do not trust logic enough to act on it. I have a sense of loyalty to him that is equal in strength to the logic that points that I should leave. Maybe this is what I am supposed to deal with. Maybe this is the kind of relationship I deserve. I am not able to get through to him but I should still stay. I wish there was a way to change his mind.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am helpless",
+            "I am trapped",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "4696",
+        "ori_text": "Do I have an eating disorder? I’m not really sure if i do or not. My dad always thought i did in middle school because i dont put my lips to my fork when i eat i use my teeth to rake the food off instead and i always thought that was crazy. At the time i was about five foot six and weighed about 130 wich i thought was a bit much until i saw myself in a full length mirror. now im a senior in highschool and im five foot seven and as of this morning im 144.3 lbs. I worked my way up to 167 last year and tried to get down to 140 for prom. I diddnt succeed and i ended up eating so much i gained 10 of the 20 lbs i lost and then over summer after i got diagnose with celiacs disease i diddnt eat very much, there would be days i just skipped food all together. everyday at the pool more and more guys would look and I felt more confident. when i went to my doctor for my celiacs doctor about a month ago, she said that my weight concerned her. apparently 140 is the lowest my body can be without being unhelthy and i weighed in at 142. I still didnt feel it was enough and about 2 weeks ago i discovered that if i take my adhd medicine everyother day not only can i slack off when i really want to but i get sick and then im not hungry. I went down to 140.2 for about 4 days and i felt like a fat kid. In gym I couldnt run as fast as normal and i was out of breath in no time, when we got back i looked in the mirror and saw how gross i looked. my boyfriend thinks im self destructive in ways other that not eating because he sees me eating apples and rice bars alot and thinks its the only healthy thing i do for my body since i stopped cutting.But he dosnt understand either way and dosnt seem to notice either way so i figure hes happy about thedirection of my figure. I couldnt get my meds to make me sick anymore last week so i stopped taking them and i just ate everything with sugar or chocolate or fat and went up to 147 and it freaked me out. Christmas eve i took my meds without thinking and like usual when i take hem i diddnt eat. a few hours later i got really sick but due to a childhood surgery im unable to vomit so i just dryheave and it hurts but im used to it. I diddnt eat untill christmas morning(yesterday) and i ate all day long. then thismorning i did my usual. I got in my yogapants and a bra and ran down to weigh myself. unhappy with being almost 5 lbs above goal i got off and looked in the mirror again. poking and pulling and shaking i decided that i need to get back down but mom handed me a bowl of oatmeal that im currently avoiding and thinking about flushing even tho im starving so i think ill take my meds again tomorrow so ill be at my goal before mybirthday on the 29th and then ill beable to decide if i need to loose more or not. i realise this cant benormal. making myself sick to avoid food instead of making myself purge it and actually eating so is it really an eating dissorder if i take vitamins to get my minerals and then skip a day here and there for food but i never actually purge it?if so how do i fix myself, im too scared to tell my councellor because she thinks ive made so much progress wih everything else i dont want to dissapoint her and shed probably want me to tell mom who would make me eat at the table again so she knows im eating… I want to be in the fashion and art world and food just makes me fat… not fashionable nor artistic but disgusting and lathargic and even with crunches and dieting i cant seem to look the way i want … i also feel that im unhelthy weight already because the chart for weight is based off hight and im prety sur my chest is probably about 15 or 20 lbs of my weight wich means id be at unhelthy weight already wouldnt it? I just stil dont like the way i lok tho please help me figure this out",
+        "situation": "I think I may have an eating disorder; even when I'm at a borderline unhealthy weight (underweight), I freak out. I take medicine to make me lose my appetite. I want to be in the fashion and art world and food just makes me fat, not fashionable or artistic but disgusting and lethargic. No matter what I can't seem to look the way I want. I am scared to tell my counselor because she thinks I've made so much progress and I don't want to disappoint her.",
+        "thoughts": "- I am not good enough unless I'm thin.\n- I will feel happy when I'm finally thin enough.\n- I am disgusting.\n- I am not worth the space I take up if I am not in fashion or art.\n- I know that this is not normal but being skinny is more important than this.\n- Everyone would be ashamed of me if they knew.\n- My therapist would be disappointed in me and reject me.\n- I should be able to just stop eating.",
+        "core_belief_fine_grained": [
+            "I am out of control",
+            "I am defective",
+            "I am unattractive",
+            "I am bound to be rejected",
+            "I am bound to be abandoned",
+            "I am worthless, waste",
+            "I don’t deserve to live"
+        ]
+    },
+    {
+        "id": "16",
+        "ori_text": "I Do Realize That I Have A Few Psychopathic Traits, However, I’m Not Sure If I Am A Psychopath Or Sociopath. Recently I’ve started to question and compare my actions and thoughts to others. I’ve started to be more aware of myself. I first noticed that whenever I would be angry at someone in close with ( a partner, parent or best friend)my usual feelings that I experience for them disappear completely and it’s as if they’ve changed from the people I care about to the people that I hate the most. So I did research starting from there. I’ve then realized that I lack empathy, guilt, remorse, compassion, you name it. However, I feel empathy for animals, not for humans. This is what’s making me confused. Once I’ve hurt someone, mostly emotionally, I wouldn’t feel guilty, even after my feelings for them have returned (after calming down). I’ve also realized that I’m very manipulative and dominant, I hate it whenever I feel like I’m not in control. I become more aggressive. And once something doesn’t go my way, I play as the victim or I try to make the person feel guilty or pity me so that they can give in. I don’t lie often, mostly because I don’t feel the need to since I don’t do bad things, I don’t mind following the rules as I think that they’re fair and don’t interfere with my life. I do lie sometimes, whenever I need to, I always get away with it. I also have superficial charm, it’s much easier to do online, I’ve noticed that people would fall for me in a matter of days to even a few hours. I don’t think that I am very narcissistic because I do have insecurities but sometimes I would feel like I am better than others, but that kind of feeling disappears quickly. I’ve been told that I can be cruel at times, I do admit that I am, especially towards people I dislike. I also feel satisfaction in seeing them hurt. I have a partner and I do get tremendously jealous, to the point that it’s emotionally violent for my partner. I would like to add that I also get bored very easily. (From Canada)",
+        "situation": "The individual is questioning whether they might be a psychopath or a sociopath due to certain traits they have noticed in themselves. They lack empathy, guilt, remorse, and compassion, and they are manipulative, dominant, and enjoy being in control. They experience a lack of emotional attachment to people they are close to, and they feel satisfaction in seeing those they dislike hurt. They also exhibit jealousy in their relationship and admit to being cruel at times, particularly toward people they dislike. Additionally, they have a tendency to become bored easily.",
+        "thoughts": "I feel disconnected from my loved ones when I am angry, they do not care about me either.\nI am so bored.\nI am sick, its satisfying to see others hurt.\nI have no guilt or remorse, I am awful.",
+        "core_belief_fine_grained": [
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be alone",
+            "I am worthless, waste",
+            "I am immoral",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "4624",
+        "ori_text": "I’m 18 years old and preparing to go to university for psychiatry. I have asthma, eczema, ADD and something that seems similar to restless legs syndrome. As I was taking a course on psychiatric disorders, I started to notice that a lot of the things associated with OCD applied to me. I may be just a hypochondriac or something, but I was hoping you could help me with that. I bite my nails, cuticles, and the skin around my nails constantly. I bite my bottom lip and the inside of my mouth. I find that I need to scroll down on a webpage 5 lines at a time, and it bothers me when a word doesn’t quite fit on a line when I’m writing. I tug at my nails too and run things under them all the time (hairclips, toothpicks, etc). I also pick at scabs on my scalp (I have eczema, the scabs are already there) and on my legs (bug bites).",
+        "situation": "I started to notice that a lot of the things associated with OCD applied to me. I may be just a hypochondriac or something...",
+        "thoughts": "I might have what I'm learning about in class. If I can see these symptoms in my own life then it must mean that I have it too. I need to know if I have these diagnoses, or if I'm a hypochondriac. There are labels for my experiences and I must find them. I must fit in somewhere labeled.",
+        "core_belief_fine_grained": [
+            "I am out of control",
+            "I am defective"
+        ]
+    },
+    {
+        "id": "4649",
+        "ori_text": "Hi. Before I start, I’d like to give some background. I’m 21, my boyfriend is 24, and I am/was in a long distance relationship. I met a young man through a cousin in January of 2010, and we kept in contact off and on until we saw each other again in July. After going on dates for about a month he asked me to be his girlfriend. It had been 5 years since he last had a girlfriend. At the end of August I went home. I only heard from him about five times after coming home, and in October communication stopped completely. My cousin told me that his phone was broke, which was true, but I didn’t see that as an excuse. My boyfriend and my brother were friends on a social internet site and I figured he could have emailed me or used my cousin’s phone.",
+        "situation": "I only heard from him about five times after coming home...I didn’t see that as an excuse...I figured he could have emailed me or used my cousin’s phone.",
+        "thoughts": "Others must meet my expectations no matter what. I cannot be understanding about what others may or may not be going through. I must be at the top of someone's priority list. If I don't hear from someone as often as I want, then it must mean they do not love me. I am not satisfied in this relationship, this is not enough.",
+        "core_belief_fine_grained": [
+            "I am a victim"
+        ]
+    },
+    {
+        "id": "39",
+        "ori_text": "My boyfriend of one year, who I have been looking at apartments with, broke up with me out of the blue. He has been feeling suicidal, which he dropped on me as we were walking into my parents house. I was completely caught off guard and said this was a selfish (cringe) time to disclose this information since we are always together. I apologized right after we had dealt with my family and tried to talk but he didn’t want to. He said everything was fine. I offered we go home and he said he wanted to stay. We went out on a boat trip with my family the next day. My boyfriend got really drunk and got into a fight with me because he wanted me to drive him to his friends (we were in the middle of the ocean). I tried hugging him to show I loved him and it was okay and to calm down but that just made it worse. He said I tried to smother him, broke up with me in front of my family, and forced my family to take him to a private beach where he waited for someone to pick him up. Once we both got back home a few days later we tried to talk but he told me that I never supported his mental health. I had no idea he felt this way, that episodes like this were so intense. He told me he had bipolar but he never talked about it. I was really involved in finding him a therapist and I was always there but he would tell me he just needed to be quiet and he was okay. I’m not sure what to do. He won’t talk to me anymore and has wiped me from his life. This is the total opposite of the person who asked my grandfather (one month ago) for permission to marry me. I’m extremely lost. I have PTSD and so all of this is extremely triggering for me. I’ve been completely open with my mental health and the boundaries I need. I don’t know if I should keep checking on him or leave him alone. I left him alone because he said he wanted space when this first happened but then he threw in my face that i wasn’t there for him when we did talk.",
+        "situation": "My boyfriend of one year, who I have been looking at apartments with, suddenly broke up with me. He disclosed feeling suicidal as we were walking into my parents' house, catching me completely off guard.",
+        "thoughts": "I feel betrayed.\nThis is my fault that i did not recognize his mental health problems sooner.\nI feel I won't be able to trust anyone ever again.",
+        "core_belief_fine_grained": [
+            "I am unlovable",
+            "I am bound to be rejected",
+            "I am bound to be abandoned",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "52",
+        "ori_text": "From a young teen in the U.S.: I’m 13 and don’t know if I’m just weird but I can turn on and turn off my apathy levels? I can turn it off and act like how people are supposed to act during certain situations (raising my empathy/decreasing my apathy). For example, when I turn it off and something happens to a friend I feel worried and stuff but it’s also kinda feels fake?",
+        "situation": "The client is struggling with feeling disconnected with their emotions at times, and they are not sure if this is a typical situation or not.",
+        "thoughts": "Am I normal?, I don't feel normal, Is something wrong with me?, I feel like something is wrong with me, Why don't I feel my feelings like other people?, I am weird, I am being fake, No one can find out that I am being fake with them, People won't understand me, I am confused, I should be feeling differently towards others than I do, I am different than other people.",
+        "core_belief_fine_grained": [
+            "I am defective",
+            "I am bound to be rejected",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "4572",
+        "ori_text": "I’m married to my husband for almost 9 years. We know each other 11 years. For the outside world, we are perfect couple, who loves adventure, travel, cooking and is madly in love. Behind the door is a different story. In the past 10 years, we’ve been straggling with my husband’s father, who had a stroke and now has a cancer. We were helping my in-laws in their difficult times.",
+        "situation": "People see my husband and I as a perfect couple but our experience is more negative behind closed doors, particularly because we are struggling with his father's health challenges.",
+        "thoughts": "Our marriage is not as it seems",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am trapped"
+        ]
+    },
+    {
+        "id": "4638",
+        "ori_text": "…to hold on to …I am struggling at the moment and yet I am aware that I should be feeling good. I am drawing to the end of a course of cbt, and I have benefited a great deal from this – my therapist was great, but not enough. I think my hopes and expectations at the outset were wrong – I really hoped that I would come out and things would be sorted, but of course they are not.",
+        "situation": "I am struggling at the moment and yet I am aware that I should be feeling good.",
+        "thoughts": "What I am feeling and going through are unacceptable and wrong. There is a right and wrong way to go through this and I am doing it the wrong way.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am a failure, loser"
+        ]
+    },
+    {
+        "id": "4578",
+        "ori_text": "I’m an 18yr old high school drop out. I’ve suffered from mental abuse since I was around three..but now that I can actually get out on my own, I can’t because my stepdad has trapped me. I guess I’ll start from the beginning. I’ve never met my biological father. My mom had left him when I wasn’t even a year old yet. When I was two, almost three, my mom starting dating my stepdad. They got a place together and eventually got married when I was around six. My stepdad has mentally & phisically abused me. When I was little, I was a skinny, entergetic, little girl. Then my stepdad decided I wasn’t eating enough so he started making me eat more food at dinner then he could. Half the time my mom would wait til he left the kitchen then throw it away, then they’d fight about it all the time. They fought alot over how he treated us kids. one time he hit me in the head with a plastic baseball bat my dog chewed up and cut y head open. My mom left him for like three days then we were back. Stuff like this continued until I was 13, then they got a divorce.",
+        "situation": "I have a history of verbal and physical abuse by my step father from age 6 to 13 and my mom divorced him after that.",
+        "thoughts": "I can't do anything because my step dad has trapped me",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am a victim",
+            "I am trapped"
+        ]
+    },
+    {
+        "id": "4509",
+        "ori_text": "I’m 14 years old and have social anxiety / depression. When I was 5 years old, my father was killed in a car crash. After that, my mother continued to work. When I was 9, my mom and I were in a severe car accident. She broke every bone on the right side of her body and I ruptured my spleen and fractured my leg.",
+        "situation": "I’m 14 years old and have social anxiety / depression. When I was 5 years old, my father was killed in a car crash. When I was 9, my mom and I were in a severe car accident.",
+        "thoughts": "I’m too young to be this messed up. I guess it makes sense considering my dad died in a car accident and then my mom and I were in a serious crash, too. I don’t think things will ever get better. I’m wired to be anxious and depressed forever. Anytime I think we’re going to be okay, something horrible happens. I’m scared I’ll never feel normal. I’m scared about letting my guard down. If I do, my mom could leave and die in an accident. Then, I’d be all alone. Everything is just so scary. I’m scared to try anything new.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am trapped",
+            "I am bound to be abandoned"
+        ]
+    },
+    {
+        "id": "4699",
+        "ori_text": "My friend died earlier 2011 of suicide; only a few months into the year as a matter of fact. I met her in September 2009 my senior year of High School, and spent time with her every day or every other day, for varying lengths of the day (sometimes a whole class -we had gym for the first half of that school year- and some 5 minute periods before and after the last class, sometimes only those 5 minute periods). We also saw each other at dances and such. And we became close friends, and I eventually considered her a best friend. And, as a matter of fact, had feelings for her beyond friends. We hung out together throughout my Senior year, though it became less in the second half the year (we no longer had gym the second half, though we still met before and after the last two classes of the day with our group of friends, and eventually that half of the year I went to her lunch period to spend time). I took this girl to prom (though nothing intimate occurred as we were not dating), was with her at 3 graduation parties (one being my own), and a few other event though not more than maybe 2. Once I graduated was when we steadily stopped seeing each other. I kept in touch on Facebook, and Texted what I thought at the time was quite a lot (I believe it was once a week or once every two weeks at least), but whenever I asked to hangout, they were always busy. I still considered her close and important friend for all that happened in that year I knew her, because we had gotten very close. This period after we stopped seeing one another at all is the Fall and Winter of 2010. I still tried to keep in touch via text, though today, I’m not sure whether those amounted too much more than Can you hangout? Not this week, sorry. Ok. which I’m frightened may be true, though part of me also wants to say that while some of the texts were like that, many many others were me striking up conversations and asking how her day or week was.",
+        "situation": "My friend died of suicide. We were best friends, but eventually we drifted apart. I tried to keep in touch via text but I'm frightened that these text exchanges may not have amounted to too much.",
+        "thoughts": "- My friend ended her life because of me.\n- I could have stopped her. I didn't do enough.\n- This is my fault.\n- I am a horrible friend and person.\n- I wasn't there for her when she needed me.",
+        "core_belief_fine_grained": [
+            "I am immoral",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "4689",
+        "ori_text": "Iv lost my girlfriend, my best friend, almost all of my other friends that I recently graduated with. I close up and sit in my room when I’m not working. I don’t even know how to meet new people anymore. I don’t even know where to start on finding a new girlfriend. Mainly cause I don’t want to but I feel like it needs to be done bc I feel I’m holding her back and she even says I am. I was only sober 2 months before I fell into a drug that helps me even know I know its not truly helping. Dxm is the drug. I take it because I can lucid dream memories that I enjoy. Like memories of me and my ex and times in the phsyc hospital I was in three times because I felt safe there. I take it daily so I can see her face(even while we were together cause we just started to fall atpart the last 3or4 months.), be safe in the hospital environment, and fix things iv screwed up in the past. The bad thing is it makes my psychosis worse. Iv already attempted suicid twice, but the first time my friend stopped me before I took all the pills and the second time my ex from above called me as I had the gun in my mouth, and I felt it was a sign that I had to stay alive for her. She doesn’t even know she did this cause iv never told her so I wouldn’t scare her. All I think about everyday is what do I have to live for. I race motocross and I’m very very good. I want to get my pro licence but I don’t even have the drive to do it. All I want is my life to end and most days I feel like if I don’t do it myself my life will just get worse. If that’s possible. I won’t kill myself. Iv made that promise to to many important people in my life and people that are not in my life anymore. I just need help from someone. Anyone.",
+        "situation": "I've lost my girlfriend, best friend, and almost all of my other friends. I don't know how to meet new people. I feel into a drug that helps me even though I know it's not truly helping. All I think about everyday is what do I have to live for.",
+        "thoughts": "- I don't deserve to live.\n- My life is all bad, all the time.\n- I will be alone forever.\n- I don't deserve to be loved.\n- I don't deserve to be happy.\n- I don't know how to be happy.\n- Things will always be this way.",
+        "core_belief_fine_grained": [
+            "I am unlovable",
+            "I am bound to be abandoned",
+            "I am bound to be alone",
+            "I am worthless, waste",
+            "I don’t deserve to live"
+        ]
+    },
+    {
+        "id": "4519",
+        "ori_text": "Could my boyfriend (age 24) be Bipolar? He does have episodes of depression and acts completely different when he is with his friends. I feel like he has split personalities. Many times he doesn’t remember tasks he completed days ago. We are at a stressful time in our relationship which includes the 6 month old baby. We used to be best friends and still today sometimes we enjoy time shared with the baby, but I see more and more he has no idea of what I’m referring to because he asks, huh? all the time. There has been lingering problems. About two years ago he was photographed in an almost orgy like sexual setting. However, he still insists and believes I (age 23) am the only girl he has ever kissed or hugged despite the pictures. It gets worst. There is another female who claims to have had a yearlong relationship with him that resulted in a baby! I believe her, and her child is two months older than mine. When I ask him he has no idea who the person is. I have even talked to the ex-girlfriend and one phone partner without his knowledge. He really thinks our relationship is fine. He loves our son and would do anything to take care of him, and he is happy to celebrate our would be 7 year boyfriend girlfriend relationship. He calls us his family and asks for us soon as he comes home from work. When I threaten to leave him he cries about how lonely he is and that he wants to kill himself. But, I still find him secretly texting girls on the phone that are listed under boy names. I really don’t understand any of this and I’m falling deeply into depression myself that along with the baby weight I can’t shed. If I ask him for the truth he will simply look me in the face and tell another lie. {I can’t bear it, seriously.}",
+        "situation": "When I threaten to leave him he cries about how lonely he is and that he wants to kill himself. But, I still find him secretly texting girls on the phone that are listed under boy names. I really don’t understand any of this and I’m falling deeply into depression myself that along with the baby weight I can’t shed. If I ask him for the truth he will simply look me in the face and tell another lie. {I can’t bear it, seriously.}",
+        "thoughts": "I don’t know what’s real anymore. I have enough issues without his drama. Who knows how many other relationships he has. I wish he would just be truthful about what’s going on. I try to leave and he just ropes me back in. I feel trapped in this life with him. It’s like I’m living in a mirage. I don’t even know who I am anymore. I don’t know how to get out of this hole. My depression is getting worse and worse. I feel like I’m drowning and he’s just watching from the shore, acting like nothing is happening.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am trapped",
+            "I am unlovable",
+            "I am unattractive",
+            "I am undesirable, unwanted",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4583",
+        "ori_text": "My son is now 13 and had been diagnosed ED / ADHD since he was 3. I was a single mom the first 4 years of his life, and married when he was four. I now have two other boys, 2 and 4, and my husband and I are struggling to deal with the oldest’s behaviors. It is actually causing me to be very depressed at times and it is straining our marriage. I’m not sure what I can do, to help him and us. I feel like I’m going to literally lose my mind on a daily basis. I end up snapping at everyone or not dealing with normal issues, because I feel so overwhelmed.",
+        "situation": "My husband and I are struggling to deal with my oldest son's behaviors. It is actually causing me to be very depressed at times and it is straining our marriage. I end up snapping at everyone or not dealing with normal issues, because I feel so overwhelmed.",
+        "thoughts": "There is nothing I can do to help him and us. I am literally going to lose my mind.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am out of control"
+        ]
+    },
+    {
+        "id": "4517",
+        "ori_text": "I read a question that was similar to the one I have, but I did not believe it could fully be used for my situation. Both my girlfriend and me are 20 years of age. We have been together since July 2nd 2010, and it is March 28th 2011. We were friends for many years before we started dating but due to both of us moving around we were not able to have a relationship. She is everything I ever wanted in a woman and I am so happy to have her in my life. I had no sexual interactions what so ever before I was with her, she is my first in everything. Unfortunately, I am not her first in many things, if anything at all, and that is very hurtful and distressing to me. When she was growing up her parents neglected and even abused her. She was molested on several occasions, but never by a family member. Her life has not been one of happiness and is full of past pains that plague her to this day. She never felt loved or cared about by anyone, and sought out relationships to fill this void. Her first sexual experience was with a female, they were friends and one night during a sleep over her friend put her hand down my girlfriends pants and began feeling around down there. My girlfriend said she did it back to her friend. She was bisexual for a while and dated a few girls, but never did anything for that kiss them. Though not often she claims. Her first sexual experience with a boyfriend was when she was 14 and the guy she was dating asked her to touch him, and so she did. She says she didn’t want to but did it to make him happy. In her next relationship she let him suck on her breasts and finger her, she touched him but while he had pants on so there was no contact with his penis. In her third relationship she also let him finger her and she gave him a hand job as well. In her last relationship she went out with this guy for 2.5 years and she really loved him. He was the first she gave oral sex to, and they did everything together. He fingered her; she gave him many hand jobs and lots of oral sex. She wanted to have sex and so did he, but she brought it up to him. They agreed and she claims that he only penetrated her a little bit before finishing, so she doesn’t believe she lost her virginity. He claims that every time they tried, which both him and her say was 3 times, that they had full intercourse but she swears that after that first time having failed, and the other two times they never got past being naked, none of the times they ever had full intercourse. I don’t know if she’s trying to protect me because she knows how bad it would hurt me if they actually did, or if she really didn’t have full on sex with him. I know her was able to penetrate her at least somewhat so I also have issues with whether she was still a virgin the first time we had sex.",
+        "situation": "She is everything I ever wanted in a woman and I am so happy to have her in my life. Unfortunately, I am not her first in many things, if anything at all, and that is very hurtful and distressing to me.",
+        "thoughts": "If I’m not her first, she won’t love me forever. She will leave me because I’m not special to her. She is everything to me. If she leaves me, I will be nothing. I won’t ever be able to find someone as amazing as she is. I think she’s lying to me about her virginity, which just means she is probably lying about her feelings for me, too, and it’s only a matter of time before she realizes it and leaves me.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am needy",
+            "I am bound to be rejected",
+            "I am bound to be abandoned",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "4573",
+        "ori_text": "My girlfriend and i have been dating for 5 years. With being sexual active with each other for 3 years prior. Before we started dating and for the first year of our relationship her sex drive was amazing. Over time it slowly decreased. It is to the point now where we have sex 1-2 times a month.",
+        "situation": "I have been with my girlfriend for 5 years and we have a history of a strong sexual intimacy connection. This has been getting worse over time.",
+        "thoughts": "It is my girlfriend's sex drive that is the problem.",
+        "core_belief_fine_grained": [
+            "I am a victim"
+        ]
+    },
+    {
+        "id": "38",
+        "ori_text": "From a teen in the U.S.: I’m 16 and this year was the worst for me. My parents got divorced, but I knew there was no bad blood between each other and me and them. Yet, it still sucked knowing theyre divorced now. I understand why it happened and I know it’s a necessary evil. However, it affected my school work so bad.",
+        "situation": "I'm 16 years old, and this year has been the worst for me. My parents got divorced, even though I knew there was no bad blood between them and me. It still sucked knowing they're divorced now. While I understand why it happened and recognize it as a necessary evil, it has significantly impacted my school work.",
+        "thoughts": "My parents divorce has turned everything upside down, its their fault.\nThis ruins my future.\nI cant focus because of them.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am a victim"
+        ]
+    },
+    {
+        "id": "4695",
+        "ori_text": "hello..im in a difficult situation and ont know what to do. well i met this guy a month ago and we have been talking. we got into some deep questions and he asked me if i liked him and i said yes in which i do and i asked him if he likes me and he said yes. and he had said i would be a future girlfriend of his. well the other day i had asked him if he would ever goout with me and his sister replies back saying hey sweetie this is matts sister and i have asked him who you are and i dont get in his business but i see what you just texted him and i just want to say he just wants to be friends with you and nothing else. he doesnt want to hurt your feelings. well i said no you didnt and she said ill get him to text you when he gets back from the store and he texted me and said my sister said you texted i said yea did she tell you what she said he said kinda what did she say and i told him and he said yea you are too young for me but im hoping you will still be friends with me. i said sure…but what i dont understand why would he hang out with me before and he kissed me and he said he liked me and all but when his sister asks who i am he just totally tells me he doesnt like me. and now he barely texts me anymore when we talked all the time before. i had saw him the halloween night with his sister and he just looks at me with the biggest grin on his face and i texted him and he never replied back until after he left his sisters house, he even showed me before his sister had gotten into this that he liked me you could just tell. and now he supposively has a girl that he spends all his time with after work and he dont text me barely anymore i have to text him first for him to text me back. please help me i dont know what to think or do.",
+        "situation": "I met this guy a month ago, and we've hung out and kissed, but in front of his sister, he told me I was too young for him and he only wants to be friends. Now he supposedly has a girl that he spends all his time with after work and he doesn't text me anymore.",
+        "thoughts": "- I don't deserve love.\n- There is something wrong with me.\n- His new girl has something that I don't; that's why he is spending time with her and not me.\n- I will be alone forever.\n- I will always be rejected by everyone I care about.\n- Nobody likes me.",
+        "core_belief_fine_grained": [
+            "I am needy",
+            "I am defective",
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "4658",
+        "ori_text": "I have recently begun to notice some disturbed thinking I have and I haven’t really been able to talk about. I have had a lot of change happen this last year in every possible area of life but my thinking patterns just seem to be more prominent and I am pretty scared to think where they may lead. I have been in therapy for depression over the last year; but haven’t been able to bring the subject up to my therapist as there are a lot of other issues I am dealing with. I have moved, lost my job, gained a new job, lost friends and mentors, started school again after 10 years, changed career paths, etc. (This could go on for another page) So there always seems to be something to work out or that brings up issues that I want to work on. However, I am afraid that my eating, or habits are harming my overall health.",
+        "situation": "I have moved, lost my job, gained a new job, lost friends and mentors, started school again after 10 years, changed career paths, etc. I am afraid that my eating, or habits are harming my overall health and I am scared about where my thoughts may lead.",
+        "thoughts": "- I have no control over my thinking patterns.\n- My therapist will judge me for bringing these disturbing thoughts up.\n- Everything is changing and I can't handle it.\n- I want to change my thinking/eating/habits, but I'm not sure I can.\n- I should be able to change.\n- I am defective. Something is wrong with me for thinking these things.\n\n(Note: Hard to tell without knowing what these disturbing thoughts are about)",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am out of control"
+        ]
+    },
+    {
+        "id": "4687",
+        "ori_text": "My whole life I have been told by teachers and everything that I have ADD. I was always in trouble, failing stuff, talked to much, made noise and never could sit still. I even always had reading comprehension problems. My teachers even tried to tell my mom but I have a mother that doesn’t believe in it. Now i’m in college and still having almost all the same problems. I’ve Always been the kid that thinks there listening but is tapping there pencil staring out the window or moving my feet around which makes people around you mad. It takes me forever to read something i even have to read the questions close before i tAke it in. Im a good reader it’s just like my mind doesn’t know what it just read. I don’t know how to explain it. I want to be a teacher so bad but Im still having problems at school now I’m on academic probation. I still am close to one of my teachers I had all threw high school and she still tells me she thinks I have that. Im very impulsive and always full of energy Ive even had a run in wihh the law. Does this sound consistent to ADD to you?? Im at my witts end and really wanna suceed And dont know what to do..",
+        "situation": "My whole life I've been told that I have ADHD; I want to be a teacher but I'm having problems at school and am now on academic probation. I'm very impulsive, full of energy, and have even had a run-in with the law. I'm at my wit's end and don't know what to do.",
+        "thoughts": "- I am a failure.\n- I'll never meet my goals.\n- I'm too stupid to become a teacher.\n- Something is wrong with me.\n- I should be able to just sit down and concentrate.\n- I always mess everything up.",
+        "core_belief_fine_grained": [
+            "I am out of control",
+            "I am a failure, loser",
+            "I am defective",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4668",
+        "ori_text": "I am 25 years old and married and I currently have my 27 year old sister living with me. She is the nicest person you will ever meet but we have a few major problems. I sometimes think that her mind is stuck back in Jr High/High school. Most of the people that she makes friends with are of high school age, and she tends to look up to them and identify with them and is almost obsessed with television shows that depict the lives of school aged children. Where most people our age would worry about their jobs, bills, retirement and so on, she is only concerned with makeup, hair, music and her friends. She is also extremely gullible. She will believe anything her friends tell her but will never, and I do mean never, listen to the advice of those who love her.",
+        "situation": "I currently have my 27 year old sister living with me. I sometimes think that her mind is stuck back in Jr High/High school. She never listens to the advice of those who love her.",
+        "thoughts": "-I am the only one who knows what's best for my sister.\n- I am completely responsible for my sister.\n- If I don't protect my sister, something bad will happen to her.\n- My sister doesn't respect me.\n- I can't help my sister. I am powerless.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a victim"
+        ]
+    },
+    {
+        "id": "48",
+        "ori_text": "From a young man in the U.S.: My SO is bipolar with strong suicidal tendencies and extreme anxiety. I left for 4 days and in that time she left the walk in closet for food – twice. Also puked when the maintenance guy showed up to check the smoke detector without warning. Late every night whether I’m home or away there’s at least an hour long conversation where she begins detailing, in graphic detail and a manic voice how she wants to kill herself, while I talk her down and change topics until she gets tired enough to sleep. Its been like this for a half year minimum and getting worse.",
+        "situation": "I've been dealing with my significant other's bipolar disorder, marked by intense suicidal tendencies and extreme anxiety. Recently, I had to leave for four days, during which time she struggled to take care of herself. She only left the walk-in closet for food twice, and when the maintenance guy arrived unexpectedly to check the smoke detector, she had a severe reaction, vomiting from the anxiety.",
+        "thoughts": "I can't handle this anymore. It's too much for me to bear.\nShe doesn't care about me or how her actions affect me.\nI'm failing as a partner because I can't fix her problems.\nNothing I do will make a difference. She's never going to get better.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am helpless",
+            "I am powerless, weak, vulnerable"
+        ]
+    },
+    {
+        "id": "4579",
+        "ori_text": "My boyfriend and I have been together for four years and lived together three of those years. Six months into the relationship I found him parked in his workplace parking lot with a woman at 3am. That night he had gone to a friend of ours house and I stayed home because I didnt feel well and when I woke up at 2am and he still wasnt home and wouldnt answer his phone i became worried. Now 3 and 1/2 years later i do not believe that he was cheating on me with that woman but he was sincerely just dropping her off but that night was the turning point in our relationship.",
+        "situation": "I have been in my current relationship for 4 years but believe a situation from the first year is still impacting us.",
+        "thoughts": "I no longer believe that my boyfriend was cheating on me when I originally thought he was. I need and want this relationship to work out and my assumptions caused our problems",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am undesirable, unwanted",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "4641",
+        "ori_text": "I have been dating my boyfriend for 7 months now and everything started out fine but these last few months I have started noticing a pattern. He has told me absolutely CRAZY stories about himself, for example he is in the mafia, he is really sick with internal bleeding, he has broken ribs because he went to Russia to deal with the mafia, when he was in Russia fighting in a boxing tournament the mafia captured him and turned him into a soldier where he is basically indestructible now, that he had surgery for the internal bleeding, and random people I have never heard of are texting me from his phone (when I really just think its him)but he always seems to remind me to not tell anyone anything! And he told me that he is training with this guy named Ray Trakay and sent me a picture of him and I found the picture of the guy on the internet and it was Ray Lewis (which he happened to have a Ray Lewis app on his Iphone).",
+        "situation": "...everything started out fine but these last few months I have started noticing a pattern. He has told me absolutely CRAZY stories about himself...",
+        "thoughts": "My boyfriend is out of control. I need to be careful around him. I cannot trust him. I feel confused. I don't know whether to trust myself. I must still stay with him until I figure out what is going on.",
+        "core_belief_fine_grained": [
+            "I am helpless"
+        ]
+    },
+    {
+        "id": "63",
+        "ori_text": "I have a 23 years old sister and her behaviors cause anxiety. We moved to Canada about 2 years ago and since then I feel responsible a lot about her. Our parents are in back home and I feel I have to protect her and do as much as I can for her. She imputes to me all the tasks she has to do. She doesn’t eat at all in a day or she eats fast food (she is overweight), she doesn’t sleep in normal ours, she is depressed and doesn’t have friends at all. I can’t stop thinking about something will happen to her so bad bc she doesn’t eat. Sometimes I think she will get a big health problem or mental issue and I am trying to think about how can I deal with it. I try to help her and talk to her often about what she should eat or she should go to nutritionist or psychologist but she never listen to me and she says I don’t know why I am like this, I want to change my behaviors but I can’t. I just want to stop worrying, I feel sick. I can’t live my life if I can’t stop worrying about her all the time. (From Canada)",
+        "situation": "This client is struggling with feeling responsible for their sister's mental health and overall well-being.",
+        "thoughts": "If I don't help my sister something bad might happen to her, If something bad happens to my sister it will be all my fault, I am responsible for my sister's well-being, I can't help my sister, I can't live my own life.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am trapped"
+        ]
+    },
+    {
+        "id": "4607",
+        "ori_text": "Okay before I start I’m 20yrs old, living with my mother and father and 4 other siblings. As far back as I can remember, he constantly abused me mentally and physically to the point I’m traumatized and scared all over my body espically my face. I don’t want to turn to the police because he is only like that with me alone. he is a great father to my siblings. However when it comes to me, he hates me. He said I was a curse brought upon him by god and one day he will kill me and get rid of it. and indeed he abused me to the point I blanked out and passed out, and became crippled for a while. I would move out, but I don’t have the money for that nor do I have the job. Whenever I get I job, I take too many sick days out because of the bruises and scarring on my face are hard to hide. also because of the same reason I’m failing college. I don’t do anything to aggravate him, in fact I try to avoid him seeing me (since just seeing me aggravates him) but he would find me and abuse me for any or no reason at all. I started cutting my wrists in order to numb the pain in the rest of my body. and I don’t know what to do. Please give me advice, please!",
+        "situation": "I would move out, but I don’t have the money for that nor do I have the job.Whenever I get I job, I take too many sick days out because of the bruises and scarring on my face are hard to hide.",
+        "thoughts": "I can't move out until I have a better financial situation. I must remain in this situation until I have more money. The only way out is to be more financially secure. I cannot let other people know or help me. I have to sick days to hide the bruising on my face. Other people can't find out what's happening. I must solve this all on my own.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am trapped",
+            "I am bound to be rejected",
+            "I am bound to be abandoned"
+        ]
+    },
+    {
+        "id": "4606",
+        "ori_text": "When I was 1 year old I contracted Chicken Pox and Scarlet Fever. I had a temperature of 107*F for several hours. The doctors told my Mother that I would probably be a vegetable for the rest of my life. Thank goodness they were wrong. They considered my recover a miracle. Unfortunately not all things were rosy in my life afterwards. I was sexually abused at a young age and it went on for several years. Because of the abuse and several kinds of abuse over the years, I was diagnosed with PTSD in my late 30’s. I have had many different diagnosis over the years but PTSD has always been the first. I suffer from horrible bouts of debilitating depression and as I get older they seem to get worse. My question is if there is a connection between early brain health and major recurrent depression?",
+        "situation": "Because of the abuse and several kinds of abuse over the years, I was diagnosed with PTSD in my late 30’s...I suffer from horrible bouts of debilitating depression and as I get older they seem to get worse. My question is if there is a connection between early brain health and major recurrent depression?",
+        "thoughts": "I am doomed to suffer because of my early health issues and trauma. I am a victim of many things in my life and must remain so. My trauma is too great, I cannot thrive. My ability to thrive is dependent on things outside of my control. As I get older this will only get worse, not better.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am a victim"
+        ]
+    },
+    {
+        "id": "4503",
+        "ori_text": "My parents got divorced in 2004. My mother has never recovered, she has severe mood swings, i think she may be bipolar. When I was six years old in 1998, my father moved our family to Germany because he was in the army. I had an amazing childhood. When I was twelve in 2004, my father had to go to Iraq. My mother thought it would be best if she moved my brother and I back to the U.S., where we would have family support. I was very depressed because my dad was my hero and I blamed my mom for everything that went wrong. I felt like no one understood me, mostly because we live in a very remote and rural part of the state. When my dad came back, he wanted a divorce from my mother. A few years earlier, my mother had to have surgery on her hip. my dad left her in the hospital and met a woman at a bar. They hooked up and my mom was devestated. But he promised he’d never do it again.",
+        "situation": "I had an amazing childhood. When I was twelve in 2004, my father had to go to Iraq. My mother thought it would be best if she moved my brother and I back to the U.S., where we would have family support. I was very depressed because my dad was my hero and I blamed my mom for everything that went wrong. I felt like no one understood me... When my dad came back, he wanted a divorce from my mother.",
+        "thoughts": "Everything was great until my mom messed everything up. Because of her, my brother and I had to leave our dad. We ended up living somewhere where no one liked me. It's her fault that I never felt like I fit in. Even when my dad came back, he didn't want us either - he wanted a divorce. I guess no one will ever want me in their life. I'll probably be alone forever.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am a victim",
+            "I am defective",
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "4505",
+        "ori_text": "Hello. I have been friend with a guy since grade 6th. We were in the same grade and best pals of each other. Two years back I realized that I love him unconditionally and what all we shared was not merely friendship but I had other feelings for him. First I thought the feelings were mutual and so did all our common friends told me. But when I proposed the GUY, he refused me and said he never felt so. And everybody, including his brother and cousin who are my good friends too, have taken his feelings for me wrongly. He was just a friend to me always and had no such feelings for me. He certainly stopped talking to me. No contacts at all for 8 months. But I still loved him n I still do. I was always concerned about him. So kept a detail about him through his brother and friends but he fought with them too. At a point of time he broke all his ties with everyone and entered a new life.",
+        "situation": "Two years back I realized that I love him unconditionally and what all we shared was not merely friendship but I had other feelings for him. First I thought the feelings were mutual and so did all our common friends told me. But when I proposed the GUY, he refused me and said he never felt so. And everybody, including his brother and cousin who are my good friends too, have taken his feelings for me wrongly. He was just a friend to me always and had no such feelings for me. He certainly stopped talking to me.",
+        "thoughts": "I really thought he liked me, especially after all our friends said so, too. He rejected me. What's wrong with me? I can't believe he wouldn't want me after all those vibes. I feel like he thinks I'm not good enough for him. I’m surprised and hurt, and I can’t let this go. I need to know what he’s doing and how he is. I’ll never feel this way about someone again. I can’t believe he stopped talking to me, but I can get his brother and cousin to let me know what he’s up to cause they feel bad about misinterpreting the situation. He will probably never talk to me again and I'll end up alone.",
+        "core_belief_fine_grained": [
+            "I am defective",
+            "I am undesirable, unwanted",
+            "I am bound to be abandoned",
+            "I am bound to be alone",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4626",
+        "ori_text": "I have a question about seeing therapists. I have read and have been told by friends who have had this come up in therapy that it is not ok to see more than one therapist. I understand in principle, but I have a question. I saw a psychologist off and on for 10 years who was very helpful to me through a number of issues I dealt with. He was very supportive, which I needed, and he knows me very well. I felt i had gone as far as I could with him on problems I was haveing with ADHD problems and problems with schooling. I felt bad for him that I just kept failing to improve. I was referred by my psychiatrist to a cognitive psychologist, and he was helpful to some extent in a different and complementary way.",
+        "situation": "I felt bad for him that I just kept failing to improve.",
+        "thoughts": "I have expectations for myself and if I don't meet those expectations, then I am a failure. If I don't meet those expectations, I should be ashamed and hide. If I don't meet those expectations, I must abandon my relationships even if they are with a professional whose job is to help me. I cannot let my therapist see my struggle. My journey is a reflection of my therapist. My therapist will judge me and abandon me if I am honest. I have made no progress to be proud of. How others feel about me and themselves is my responsibility.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am a failure, loser",
+            "I am bound to be rejected",
+            "I am bound to be abandoned",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4617",
+        "ori_text": "I have an interesting therapist situation that I need help resolving: A little over a year ago, I was seeing a counselor through my college to help me get over a very hard break up. I had never seen a male therapist before but I didn’t mind, because I get along better with men anyway – and I also thought that I would benefit more from it, seeing that the reason I was there in the first place had to do with a man.",
+        "situation": "I get along better with men anyway",
+        "thoughts": "All men are alike and all women are alike. I can discount an entire gender due to my previous experience from people identifying with that gender. I know everything I need to know about other genders and people. There is an automatic disconnect between me and women and I don't need to address it or change it.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "4598",
+        "ori_text": "I am a 25 year old female that has come a long way. I was diagnosed as bipolar at age 18; from there I was institutionalized on many occasions by the age of 21. I was in such a bad condition that when my mother applied for disability on my behalf I was accepted immediately. I was told people are normally denied on their first attempt. The challenge was to find the right medication that would control my depression, insomnia, and suicidal/homicidal thoughts. At age 22, I was placed on Lamictal and Seroquel. I was able to cope, I recently graduated with an A.S. degree as summa cum laude and I received the president’s cup. I have earned various I.T. certifications and I am now studying to be a biomedical engineer. School has been difficult for me, not so much as learning but working in groups or speaking in front of the class. I am not fond of school but I want to earn more money so I can purchase a house in the country. I would have never pictured my life changing in this matter; for the first time in my life, I can honestly say I want to live.",
+        "situation": "I have been through a lot with my mental health and made a lot of progress managing symptoms. School has been difficult for me, not so much as learning but working in groups or speaking in front of the class. I am not fond of school but I want to earn more money so I can purchase a house in the country.",
+        "thoughts": "I am scared that this progress and growth will not last. That my happiness and willingness to live will go away.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am out of control"
+        ]
+    },
+    {
+        "id": "4655",
+        "ori_text": "I have suffered from trust issues for as long as I can remember. There are only two people in my life that I trust to help me out in a sticky situation, but sometimes I cannot trust them to keep personal conversations that we have to their selves. All of the time, they have told me that they told someone because they thought that they were helping me. I have a history of sexual and emotional abuse, I have suffered from depression on, and off, for the past 15 years; I am 26. I was court ordered to attend therapy for 6 months and needless to say, I was apprehensive about it; but I wasn’t given much of a choice. I figured I would attend my mandatory 2-week appointments without saying much and hopefully the 6 months would past by quickly.",
+        "situation": "I have suffered from trust issues for as long as I can remember. There are only two people in my life that I trust, hey have told me that they told someone because they thought that they were helping me. I have a history of sexual and emotional abuse, I have suffered from depression on, and off, for the past 15 years; I am 26. I was court ordered to attend therapy for 6 months and needless to say, I was apprehensive about it; but I wasn’t given much of a choice.",
+        "thoughts": "I will always feel this way.\nNo one can help me.\nPeople are untrustworthy.\nI need to figure this out on my own.\nPeople will betray me.\nTherapy won't work for people like me; I am too defective.\nI cannot trust anyone, even a therapist.\nThere is something wrong with me.\nI am worthless.\nI have no control over my own life.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a victim",
+            "I am defective",
+            "I am bound to be abandoned",
+            "I am bound to be alone",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4650",
+        "ori_text": "My fiance and I have been engaged for over a year. Our wedding was put off because his parents asked him to build a house for them 2 months before our wedding! They had a perfectly good house at the time they just wanted their dream house. Regardless, my fiance granted their wishes and the concrete was poured the day that we were to get married.",
+        "situation": "Our wedding was put off because his parents asked him to build a house for them 2 months before our wedding! They had a perfectly good house at the time they just wanted their dream house.",
+        "thoughts": "I am a victim with no power in this situation. I must accept this behavior. I am too scared to leave this situation. I am not worthy of better. His parents hate me. His parents do not want us to get married. He may not want to marry me either. He loves his parents more than me. I will always be second in his life. His parents had no need for a house, and I know this for sure. I am aware of every aspect of this situation.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am trapped",
+            "I am unlovable",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "4567",
+        "ori_text": "Just when I thought I’ve won the seemingly endless battle against my OCD by triumphing over my eating disorder (anorexia, to be specific), common symptoms (checking the switches countless times, washing my hands forever, hoarding) and gotten a hold over my rampaging thoughts, I had a severe panic attack a few days ago.",
+        "situation": "I experienced a recent setback with my OCD symptoms that had been in remission",
+        "thoughts": "I have no longer won the battle against my OCD",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am a failure, loser"
+        ]
+    },
+    {
+        "id": "25",
+        "ori_text": "From a teen in the U.S: I’m extremely uncomfortable around my step father. I’m young,13. so i’m not sure if this is just me being dumb, but I am really uncomfortable and feel really anxious around my step father. I’ve overheard my mother and his arguments, and they are apparently fighting because he cheated with multiple women, and because he’s acting like a child.",
+        "situation": "I'm 13 years old, and I feel extremely uncomfortable and anxious around my stepfather. I've overheard arguments between my mother and stepfather, and it's been revealed that he has cheated with multiple women and is behaving immaturely.",
+        "thoughts": "I feel extremely uncomfortable and anxious around my stepfather.\nI can't help but overhear my parents arguing, and it's really unsettling to hear about my stepfather cheating with multiple women and acting immaturely.\nMaybe I'm just being dumb for feeling this way, but I can't shake off these uncomfortable feelings.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am needy",
+            "I am trapped"
+        ]
+    },
+    {
+        "id": "4697",
+        "ori_text": "…a little crazy and totally lost: I’m 17 and for the past 3 months I’ve been feeling really down. I’ve no real reason to be, I’m a full time student with a good part time job, a loving boyfriend, a great family and have been getting good marks at university. However, lately I’ve been feeling really lost. I’ve been having mood swings- I often find I’m either on a really high or low, usually low mood, and that this changes quickly. I’ve also been feeling very irritable, and have found myself snapping at my family for no apparent reason. I’ve been on the contraceptive pill since October, and I was wondering if this could be some kind of hormone excess? I’m really not sure. I’m also crying frequently and feel like I’ve got no real passion or talent for any of the things I used to be interested in. At times I really do feel like I’m going crazy and I also feel that I can’t really talk to anyone about this because they’ll either think I’m being attention seeking or overly dramatic, however I don’t think either of these things are true and I do generally feel like I’m totally lost with finding a solution to this problem. I would appreciate any help or advice that you can give me. Thanks.",
+        "situation": "For the past 3 months I've been feeling really down, having mood swings, irritability -- I have no reason to be and I feel like I'm going crazy and that I can't talk to anybody about this because I'm being overly dramatic.",
+        "thoughts": "- Something is wrong with me.\n- I am losing my mind. \n- Nobody understands me.\n- Everyone would reject me if they knew.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am out of control",
+            "I am defective",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "4646",
+        "ori_text": "I have been hearing voices for about 12 years. Sometimes I can hear them very clearly and cannot determine if they are real or not. Other times they seem faint and I cannot clearly make out what they are saying. When I go to the store, I believe that I hear people talking about me in there heads, as though I can hear their thoughts. I became very depressed about 3 years ago and the voices were telling me to kill myself, and one night I actually tried.",
+        "situation": "When I go to the store, I believe that I hear people talking about me in there heads, as though I can hear their thoughts.",
+        "thoughts": "I am capable of hearing other peoples thoughts. People are talking to me in their own heads. I am telepathic. I am certain of these things. Because I hear voices, they must be coming from other people.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am trapped"
+        ]
+    },
+    {
+        "id": "4520",
+        "ori_text": "7 weeks ago my wife had a full hystorectomy done because she had really bad abdominal pains. almost 2 weeks ago (wednesday) i came home from work and she was crying and was very emotional and wouldnt stop talking about her past and her family. i expected this kind of behavior considering the surgery and comforted her. this went on for a few days. then she became fully convinced that our neighbor (her best friend) wanted her to call child protective services on her husband because of abuse. the strange thing was she never actually talked to friend about it. this idea then began taking over everything she did and she couldnt really fuction and was confused a lot of the time. we also have twin boys which are 3yrs of age and she is a stay at home mother. so finally her friend and i sat her down and had a long talk about her conserns regaurding her friend’s family (sunday). everything seemed to be fine after that..for a couple days. tuesday afternoon hit and i was to be away on a trip for 10 days. i thought she was fine. she was acting like herself again. well on wednesday i got a call from my fist sergeant (i am in the air force) saying my wife was on base and asking for help because her friend’s husband was trying to hurt our kids. she thought that while she and our boys were sleeping he broke into our house, physically abused my sons, then left. she was convinced that my boys have bruises on them. well, she was escorted to the ER and i called a buddy of mine to watch the boys for me untill i was able to catch the next flight back home. she has been in the hospital for 4 days and they are still trying to figure out what is wrong with her. this was out of the blue. i mean it was like a light switch that went off in her head. even when i go and visit her she is absolutely convinced that her friend’s husband is trying to hurt our boys. when in fact is our boys were never hurt and he isnt an abuser. i guess my question is what can cause this. she was normal up untill that one night i came home from work. i miss my wife.",
+        "situation": "she was normal up untill that one night i came home from work. i miss my wife.",
+        "thoughts": "She’s insane. Why is she doing this? How could she do this to our children? Our family? I don’t understand how a person goes from being a loving wife, mom, and friend, to a paranoid, suspicious, and delusional crazy person. Did I do something wrong? Will she ever go back to the way she was? What if she never does, and this is who she is from now on? I can’t accept that. She was supposed to take care of our kids and be a stay-at-home mom. Instead, she’s a mess. I can’t deal with this and be in the military at the same time. My wife is the one that’s supposed to be keeping everything at home in order. If she falls apart, who will take care of the kids? Everything feels like it’s falling apart.",
+        "core_belief_fine_grained": [
+            "I am out of control",
+            "I am bound to be abandoned",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "4685",
+        "ori_text": "I know there have been many in my situation, but I have yet to find a submission that has presented a clear answer to help with my situation. In October 2009 my wife found out I was cheating with a co-worker. I did not feel comfortable telling her all of the details at first so I continued lying as I felt I was protecting her already fragile state. I have been a liar since I can remember and I don’t know how to stop. I realize I personally make the decision to lie every time I do it, but that doesn’t seem to get in the way when it comes down to making a decision whether or not to lie. We have severe financial problems and will more than likely lose our home. My wife has told me we won’t be married after she graduates from nursing school but we haven’t separated yet because we have 3 children together and she doesn’t have an income. I have been getting payday loans to subsidize my income and have paid a significant amount towards those loans to keep things as normal as possible for the kids. So goes the lying. I get loans my wife doesn’t know about to keep things normal and she always finds out I have been getting money somewhere and I end up telling her the truth. She says I am childish for always lying and adds what I’ve done to the list of reasons we are getting divorced. I told her tonight I fear for my life sometimes because she doesn’t seem to have control over herself when she is in a fit of rage over what I’ve done. She has made comments in the past that she would stab me and she would get off if she were to kill me (because I cheated). I know what I did to her was terrible and I feel like a terrible person every day. I live in a manic world to keep myself from going off the deep end. I have been told I can’t leave my house because I will be abandoning my children and the courts will not award any custody to me if I do. She, however, wants me to leave immediately. I told her about my fear and she got extremely angry, told me I was selfish and started crying because that statement meant I didn’t care about what I put her through. The fact is, I didn’t know how to help her. I let myself get in the way a lot since she found out and she wouldn’t let me provide comfort when she was in pain. I have never, nor will I ever inflict harm on her, but I fear her statement are true and the mental anguish I have caused is the reason she cut herself some this past year and almost overdosed on drugs. I am writing this because I want to stop lying. I am writing this because I want to know how to get out of the situation I am in without a huge legal mess. I love my kids; I love to be around them. If I had my choice I would never leave their sides. I can’t, however, feel like I am a good parent for allowing them to live in the environment I have created. My wife has not recovered to the point where she can get out of bed at a decent hour and function with them. For months after she found out she would sleep most of the day while they were left to fend for themselves. I didn’t know what to do because I feared I would lose my job and make things even worse. PLEASE HELP!! Or, help me to find a good counselor in my area that accepts my insurance. I can’t afford to pay the co-pays all the time so that has kept me from going. The last counselor I had fell asleep in the chair while I was talking.",
+        "situation": "I have been a liar since I can remember and I don’t know how to stop. I have lied about taking out payday loans and for cheating on my wife. I know what I did to her was terrible and I feel like a terrible person every day. But I'm also scared of my wife's fits of rage and I don't know how to help her. I want to stop lying.",
+        "thoughts": "- I am a terrible person.\n- I am trapped in this situation.\n- I am my wife's victim.\n- I am immoral and have caused everyone to suffer.\n- My wife has mental illness because of me.\n- I've tried but I can't stop lying.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am trapped",
+            "I am out of control",
+            "I am immoral",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "4693",
+        "ori_text": "I have a problem of automatically looking at things for example shiny objects, or even at body parts of people or even myself. Although I do not have any bad intentions. I don’t understand why it happens it happens all the time. People get me wrong because of this unstoppable habit all the time.",
+        "situation": "I have a problem of automatically looking at things like shiny objects or body parts. I don't have any bad intentions but people misunderstand me.",
+        "thoughts": "- This is something to be ashamed of.\n- I always do it.\n- Something is wrong with me.\n- I can't stop looking at these things.\n- People will reject me because of this habit.\n- This habit is out of my control.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am out of control",
+            "I am defective",
+            "I am undesirable, unwanted",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "4692",
+        "ori_text": "Hi, I have been seeing the same therapist for about 4 years. She recently told me that she was increasing her fees, because she has needs too. I take a lot of trips, and she stated, I have clients who are always taking trips and do not pay their bill. I told her, I pay my bill. Then she said, if I dont increase your fee then I am enabling you.? And that I need to decide what is more important, therapy or trips. She also stated that she feels like she has to walk on eggshells with me, and that she needs time off. I always believed that therapist were healthy with appropriate coping skills. She seems to blame me for things, and when I bring something up, she denies it. I feel like she has been fake, and is suddently resenting me. I would have appreciated her being honest with me. All I said to her was, if she increases my rate then I will come every other week instead of weekly. And I told her that I felt like I was too dependent on her. I feel connected to her because I have shared soo much about myself to her, but I’m not sure I want to continue therapy with her. I originally went to her for substance abuse and it has been a long road to recovery. She probably feels discouraged. I tend to be brutally honest and perhaps that made her mad at me? Resentful that I am taking vacations and she cant. Anyways I am having hard time with this and cant stop thinking about the things she accused me of. Any insight, or advice would be deeply appreciated. Thanks.",
+        "situation": "My therapist recently told me that she was increasing her fees. She said, if I don't increase your fee then I am enabling you.? And that I need to decide what is more important, therapy or trips. She seems to blame me for things, and is suddenly resenting me.",
+        "thoughts": "- My therapist resents me.\n- My therapist doesn't want to work with me anymore.\n- My therapist is angry that I take vacations when she can't.\n- I need my therapist to be okay.\n- I can not survive without my therapist.\n- My therapist will leave me, so I need to leave her first.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am needy",
+            "I am bound to be abandoned"
+        ]
+    },
+    {
+        "id": "4640",
+        "ori_text": "I grew up bouncing from house to house. Sometimes with my mom, but most of the time with grandparents or having my sister look after me. My father left when I was 2 and popped his head in here and there. He and my mother are both addicts. My mother got clean when I was 15, but is still an alcoholic. Because of their addictions, I never really had a real home, let alone parents. I was never able to count on them and they were constantly letting me down. When was 17 and graduated high school I left for college and never looked back. I knew I needed to make something of myself so that I would not turn into them.",
+        "situation": "I was never able to count on them and they were constantly letting me down.",
+        "thoughts": "I cannot forgive my parents for what they put me through. I have problems trusting people because of my experiences. I would rather be alone than depend on others who may let me down or abandon me. My needs did not matter to my parents.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am unlovable",
+            "I am bound to be abandoned",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4683",
+        "ori_text": "I believe that I’ve got a mental illness, and that’s pretty obvious to me. The thing is that i also believe that i want to have one. Can this desire (to want to get worse, or to want to have a mental disorder) be considered as a mental disorder itself?",
+        "situation": "I believe that I want to have a mental illness (or want to get worse).",
+        "thoughts": "- Something is wrong with me.\n- I am sick.\n- I am 'crazy.'\n- I am not like others.",
+        "core_belief_fine_grained": [
+            "I am defective",
+            "I am bad - dangerous, toxic, evil"
+        ]
+    },
+    {
+        "id": "4518",
+        "ori_text": "It really just occurred to me recently. I’ve always had vague, small, random memories of it in my mind over the past few years. I knew it was my life, I never gave it much thought. But recently I started thinking about it more and I realized those vague memories were kind of all I had now.",
+        "situation": "But recently I started thinking about it more and I realized those vague memories were kind of all I had now.",
+        "thoughts": "What if that’s it? What if I don’t remember anything that happened in my past? What if no one else remembers me either? I don’t feel memorable or important. What if I’m alone and I die alone? Then no one will think about me and my life would’ve been a waste. It would mean my life wasn’t worth anything – and I left no mark on this world.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a failure, loser",
+            "I am bound to be abandoned",
+            "I am bound to be alone",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4698",
+        "ori_text": "I have had depression for 3 years. I started taking zoloft 75mg and I was able to come out of depression after a year and half. I eventually weaned myself off of zoloft in april 2010 because I always felt severe fatigue when I was taking it which caused me to feel even more depressed. I have felt pretty good without the meds but here latley I am back to crying for no reason and only able to think about what needs to be done instead of doing it. I feel very overwhelmed when I go to do anything, so I just stay on the couch and do nothing. I feel very irritable when I do have to get up to do anything, and not being able to do anything has been with me since my depression started pretty much. My main question is….. what medication would be best to get me up and moving without feeling irritable or angry or overwhelmed? I have tried taking Wellbutrin but it only made my mind wide awake but I still could not move my body. Any other suggestions? Thanks.",
+        "situation": "I have weaned myself off of Zoloft, and have come back to crying for no reason and feeling very overwhelmed when I go to do anything.",
+        "thoughts": "- Depression will always ruin my life.\n- I am defective. There is something wrong with me.\n- I should have been able to handle this without medication.\n- I am just lazy.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a failure, loser",
+            "I am defective"
+        ]
+    },
+    {
+        "id": "4591",
+        "ori_text": "So around 2 years ago I was diagnosed Bipolar 1, PTSD, and social anxiety… But I’ve been getting a lot of hallucinations, delusions, issues with communication, etc.. Like right now for instance, I can’t stop laughing and quoting songs or lines from movies…or saying obscene things like my vertabrae feels like a carnivorous dairy product. Yes, this obviously could be mania, because I’ve been having problems with that for the past couple months, but I’m also hearing and seeing things, too. I keep hearing people talking bad about me, usually my friends’ or family’s voices, saying things like you’re worthless, stupid, pathetic, ugly, blah blah blah. A lot of the time I hear it when I’m alone and no one is there, which scares me. OR I’ll hear random voices I’ve never heard before, but I can’t make out what they are saying.",
+        "situation": "Around 2 years ago I was diagnosed Bipolar 1, PTSD, and social anxiety… But I’ve been getting a lot of hallucinations, delusions, issues with communication, etc",
+        "thoughts": "I don't know what is going on with me and I am scared. Everything keeps getting worse and I am out of control. I am going to go crazy.",
+        "core_belief_fine_grained": [
+            "I am out of control",
+            "I am defective"
+        ]
+    },
+    {
+        "id": "4686",
+        "ori_text": "I come from a Chinese background where my parents are really traditional. However, my family background hasn’t been the greatest due to my parents beating me physically and even verbally and emotionally when I make mistakes. For example, I had overdrawn my checking account and my mom punched me in the face, which caused her to knock out one of my contacts. My dad has called me several names when he was angry about something I said or did. But, when they aren’t mad; everything is fine. I feel a lot of psychological issues have been burnt into my mind because of their behavior.",
+        "situation": "My family background hasn’t been the greatest due to my parents beating me physically and even verbally and emotionally when I make mistakes.",
+        "thoughts": "- I deserve my parents' abuse.\n- I am worthless.\n- I am damaged because of my parents.\n- If I didn't make them angry, then everything would be okay.\n- My parents don't love me and it's my fault.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am unlovable",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "2",
+        "ori_text": "I don’t even really know where to start. For the past 7 months I’ve been under extreme mounts of stress followed by a few panic attacks, that have left me so emotionally unstable that I feel that I’m teetering on edges of insanity. I’m in constant fear that I might be experience psychosis. I’ve been having hypnagogic hallucinations right before falling asleep that have left me in so much distress. Sometimes I’ll hear a loud sound or different voices that are loud. I’d like to not that I’ve experienced this for most of my life. But since having these panic attacks and just hours on the internet and reading about mental illness it has left me scared that it maybe something more. I’m extremely scared I might be in the beginning stages of schizophrenia. I’ve become hyperaware, I literally am always making sure that I’m not hearing things or seeing things. I just feel so lost and sad all the time I just want to feel whole again. Sorry if this seems a little jumpy I’m just in tears as I type this. I’ve never been diagnosed with anxiety or any anxiety disorder and I fear it may be more than that anyway. I’ve become so afraid of my mind because if I have a weird thought I am constantly ruminating on it and it drives me up the wall. Couple of days ago I literally typed in the same question about schizophrenia 30 different times. I need help but I’m so afraid that the Doctor may confirm my fears. I just don’t know what to do. Is the hyperawareness of sounds, weird thoughts and hypnagogic hallucinations a sign that I’m becoming schizophrenic? I also have a cousin who is schizophrenic and I have an older father so I know I’m at higher risk. I’m in shambles over this. Anything would help. I don’t really know if any of this even makes but please help.",
+        "situation": "The individual has been experiencing extreme stress for the past 7 months, accompanied by panic attacks and hypnagogic hallucinations. They fear they may be experiencing psychosis or showing early signs of schizophrenia. They've been researching mental illness online and are constantly hyperaware of their thoughts and senses. They feel lost, sad, and overwhelmed, seeking help but also fearing the confirmation of their fears by a doctor.",
+        "thoughts": "I am losing my mind.\nI am psychotic.\nI will never feel normal.\nThis is the worst thing ever.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am trapped"
+        ]
+    },
+    {
+        "id": "4582",
+        "ori_text": "Why are my parents saying they want me to die and leave me? everyday i come from school all we do at my house is argue about every little thing my mom is mean to me i feel like bursting into tears but i dont i keep it in. i have really good friends that had told me to avoid me expressing my anger on her and etc. but im just thinking i might be bi polar in a way? sometimes when im arguing with my parents its so hard for me to take the things they tell me. i get so depressed but dont show my emotions they say i have no heart and they dont want me they want me to leave forever.",
+        "situation": "my parents are saying they want me to die and that they want to leave me",
+        "thoughts": "I have to avoid expressing my emotions. I must be bipolar.",
+        "core_belief_fine_grained": [
+            "I am a victim",
+            "I am defective",
+            "I am undesirable, unwanted",
+            "I am bound to be rejected",
+            "I am bad - dangerous, toxic, evil",
+            "I don’t deserve to live"
+        ]
+    },
+    {
+        "id": "4636",
+        "ori_text": "I feel very lucky. I have lots of things I know many don’t. I have a roof over my head, food, friends, & family. Yet I always feel as if Who am I to have all this and walk/drive right pass so many people who are just hungry and do nothing? I used to have lots n lots of hopes and dreams. Now, I feel as if I don’t need any of those things nor do I want them.",
+        "situation": "I have lots of things I know many don’t... Yet I always feel as if Who am I to have all this and walk/drive right pass so many people who are just hungry and do nothing?",
+        "thoughts": "I don't deserve what I have, so I should give it up. I am not worthy. Other people deserve better in their lives. I believe in a scarcity mindset. If others do not have what I have, then it's up to me to sacrifice. I need to sacrifice for others to be ok. I need to sacrifice to feel better about myself. I feel guilty.",
+        "core_belief_fine_grained": [
+            "I am defective",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "9",
+        "ori_text": "I’ve been talking to myself for over 6 years now. It’s only now that I realized I don’t have control over it. I don’t really talk to myself, I talk to people I no longer know and people I wish to know. I engage in long conversations with them that may last for 1~3 hour/s. I talk and imagine their answers in my head and then reply. I’ve been okay with it but for the past year, it started to bother me because I realized I waste about 30% of my day on it. I low-key like it, because it gives me chances I was never given and probably will never be given. I imagine myself doing all the stuff I couldn’t do. I started to feel really bad about it when I realized I don’t fully move on from any single thing in my life (a past lover or something I failed in before) because of this. I basically never forget anything that happened to me because I keep repeating everything in my head and also make up scenarios that never happened. It’s starting to get out of control because it makes me unable to focus, whenever I see a movie I keep pausing to talk for some time and then I go on with the movie and repeat, which ends up with me finishing a 2 hour movie in over 5 hours. I never felt bad about it but now I do because I came to know that’s basically why I never move on. I repeatedly think about things that happened years ago. I’ve had OCD since I was in grade 5 (about 8 years ago), I never fully recovered from it, it comes and goes. I don’t know if it might be related. I tried controlling myself and refusing any urges to talk to whoever I talk to but I always fail. Thing is, I fully understand I’m not talking to real human being and I’m merely pleasing myself by achieving stuff I couldn’t in real life, so I don’t think I’m crazy or something. I just need to know if it’s serious, and I certainly need help on how to stop this because I need the time I waste on doing it. (From Egypt)",
+        "situation": "I've been engaging in elaborate imaginary conversations with people I no longer know or wish to know for over six years. Spending up to 30% of my day on this habit has started to bother me, especially as it prevents me from fully moving on from past experiences. Despite recognizing the issue and attempting to control it, I find myself unable to stop, even though I understand these conversations aren't with real people",
+        "thoughts": "I waste so much time its stupid.\nI will never be able to fully move on in life.\nI will always be stuck.\nThis will never get out of my mind.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am worthless, waste"
+        ]
+    },
+    {
+        "id": "4657",
+        "ori_text": "I think I am suffering with moderate to severe depression and feeling helpless as what to do next. I moved from the UK 3 years ago, to live with my partner, now husband. He had tried to live in the UK with me for a while, but was unable to find a job there, so we moved across here. I didn’t realise at the time, how small his home town is & I have been unable to find a job here, though I continue to run a (struggling) small business that I own in the UK.",
+        "situation": "I am feeling helpless as what to do next. I moved from the UK with my husbamd.I didn't realize small his home town is & I have been unable to find a job here, though I continue to run a (struggling) small business that I own in the UK.",
+        "thoughts": "- I am a failure for not being able to find a job.\n- I am trapped here.\n- I am helpless and lost.\n- My business is a failure.\n- I will never be able to find a job here.\n- Life is horrible here and it will never get better.\n- Moving here was a mistake that has caused me to have depression.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am trapped",
+            "I am a failure, loser"
+        ]
+    },
+    {
+        "id": "4675",
+        "ori_text": "I have bipolar disorder and have been on treatment for 9 years. I have recently switched mood stabilizers (doctor’s orders) and I am also going back to college to get my bachelor’s degree at the age of thirty. Between the daily stress with the kids and running a household and the stress of a major life change, my husband is taking every good mood as a sign of mania. He is hyper-vigilant for it, which is great that he cares so much. He is, however, also driving me nuts. The thing is, I myself am not sure when I need to seek help for a manic episode. My episodes tend to be very mild and rather rare. So how do I know that it has gotten bad enough that I need a doctor’s help now as opposed to waiting a day or two till I can talk to my therapist? Anything you can tell me would be greatly appreciated. Thanks in advance.",
+        "situation": "I have bipolar disorder and recently switched mood stabilizers. Between the daily stress with the kids and running a household and the stress of a major life change, my husband is taking every good mood as a sign of mania. How do I know if I need a doctor's help now vs. waiting to talk to my therapist?",
+        "thoughts": "- I am not able to make my own decisions.\n- I don't know what's best for myself.\n- I cannot trust myself.\n- I might put myself in danger.\n- I am out of control.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am helpless",
+            "I am out of control"
+        ]
+    },
+    {
+        "id": "4525",
+        "ori_text": "I was born with Attention Deficit Hyperactivity Disorder, O.C.D. and I am also transgendered. As a result, I was a very difficult child to raise. There was constant fighting between myself and my parents. At the age of ten, I was sent away to an institution for two years. While there, I was physically, emotionally, and sexually abused. I couldn’t talk to anyone because I had no trust in adults. When I returned home, the same previous problems existed. I was sent away again at the age of seventeen. I felt no love whatsoever and would not until I was 25 years old.",
+        "situation": "I was born with Attention Deficit Hyperactivity Disorder, O.C.D. and I am also transgendered. As a result, I was a very difficult child to raise. There was constant fighting between myself and my parents. At the age of ten, I was sent away to an institution for two years. While there, I was physically, emotionally, and sexually abused. I couldn’t talk to anyone because I had no trust in adults.",
+        "thoughts": "I was born defective and wrong, so that’s why my parents had such a hard time raising me. I was hard to love because I was so different. It was my fault that they had to send me away; I needed to be fixed. Then, I was abused while I was away but I couldn’t talk to anyone about it because I was scared that if I said anything, I’d be sent even further away.",
+        "core_belief_fine_grained": [
+            "I am defective",
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be abandoned",
+            "I am worthless, waste",
+            "I am immoral"
+        ]
+    },
+    {
+        "id": "5",
+        "ori_text": "I cannot hold down a job because I refuse to submit to arbitrary authority. I’ve been diagnosed with BPD as well. I continuously get fired or quit due to workplace conflicts. I’m trying to move to a region of the country where employment opportunities may be more varied, pertain to my career field, or pay more; however, my inability to work is making this goal nearly impossible to achieve. I simply cannot work. No amount or type of coping skill makes the pain of submission to authority or workplace bullying any less excruciating.",
+        "situation": "The individual struggles to maintain employment due to a refusal to submit to what they perceive as arbitrary authority. They have been diagnosed with Borderline Personality Disorder (BPD) and experience workplace conflicts that result in being fired or quitting. They are trying to move to a region with better job opportunities but find their inability to work makes this goal nearly impossible to achieve.",
+        "thoughts": "I am worthless piece of crap and cannot hold down a job.\nI will never find a place of work the respects my rights or what I want to do.\nI am cannot make it in the adult/real words. I suck, this is to hard.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am undesirable, unwanted",
+            "I am bound to be rejected"
+        ]
+    },
+    {
+        "id": "4677",
+        "ori_text": "I have Stage 3 Cancer that is in remission now. I have gained back all the weight that I had lost during Interferon Therapy. I feel alone in my life. I don’t know what to do with myself. I still work but that is all there is. My wife and I get along but there is no emotional closeness between us. She goes out on the weekends with her girlfriends and I stay home. I have no close friends, I am over weight and lack confidence in myself. Nothing excites me, Nothing to look forward to.",
+        "situation": "I have recently recovered from cancer, gained weight, and lack confidence in myself. I feel alone in my life. I still work but that is all there is. My wife and I get along but there is no emotional closeness between us. I have no close friends.",
+        "thoughts": "- I am a loser.\n- I am a failure.\n- Something is wrong with me.\n- My wife deserves better than me.\n- My wife doesn't love me anymore because I have gained weight.\n- There is nothing enjoyable in my life, ever.\n- There is absolutely nothing to look forward to.\n- Me and my wife NEVER connect.\n- I am all alone. Nobody loves me.\n- This will never get any better.\n- There is nothing I can do about it. The world is against me and it's out of my hands.\n- I am a waste of space. Maybe cancer should have killed me.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a failure, loser",
+            "I am defective",
+            "I am unattractive",
+            "I am undesirable, unwanted",
+            "I am bound to be abandoned",
+            "I am worthless, waste",
+            "I don’t deserve to live"
+        ]
+    },
+    {
+        "id": "4664",
+        "ori_text": "I began nursing school in 1983 and got near completing it – to the final year. Although my grades had always been superior emotionally I was a wreck and had to drop out. However, I DID discover at this time I had hyperthyroidism, and believed that had much to do with my stress over the last part of nursing ed. I had to stop, have treatments of various sorts for that condition, and it has since been under good control.",
+        "situation": "Although my grades had always been superior emotionally I was a wreck and had to drop out of nursing school. I discovered I had hyperthyroidism and believed that had much to do with my stress, and it has since been under good control.",
+        "thoughts": "- I think my thyroid problems had to do with my stress, but what if I was just incapable of handling it?\n- If I return to nursing school, I may become overwhelmed again.\n- I am a total mess. I am falling apart.\n- It is so embarrassing that I dropped out of nursing school.\n- I am a loser.\n- I should have been able to handle my stress.",
+        "core_belief_fine_grained": [
+            "I am incompetent",
+            "I am a failure, loser"
+        ]
+    },
+    {
+        "id": "4513",
+        "ori_text": "My Mother and I have had a rocky history, mostly as a result of a childhood divorce (my mother cheated on my father, who I have always been extremely close to, and re-married immediately to a younger man) and her alcohol addiction. Subsequently over the years, she received treatment and changed her life, and so we re-established a relationship and have grown close.",
+        "situation": "Subsequently over the years, she received treatment and changed her life, and so we re-established a relationship and have grown close.",
+        "thoughts": "But what if it doesn't stay this way? What if she starts drinking again? I worry that she will mess everything up again. I'm not over what she put us through (me and my dad). I worry about him, too. Just because my mom changed her life, doesn't mean she made up for all the grief she put us through. Does she just think we can move on, just because she can? She made my childhood chaotic and it's her fault I even have to work hard at our relationship to get close to her.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a victim",
+            "I am defective",
+            "I am bound to be abandoned"
+        ]
+    },
+    {
+        "id": "4661",
+        "ori_text": "I’ve been depressed for a while, but I was always too embarrassed to get help. But now that I’ve ruined another relationship recently, I decided I should seek help. As a young child, I was always put down by my brother and felt I was never good enough because my dad would never congratulate me on anything, just that I can do better. Now that I’ve been trying to have a relationship with girls, I always make them hate me by putting myself down. Everything I do just makes me feel worse about myself, and I need help with my confidence before I end up hurting myself.",
+        "situation": "Now that I’ve been trying to have a relationship with girls, I always make them hate me by putting myself down.",
+        "thoughts": "- It's my fault that my relationships fail.\n- It's embarrassing and shameful that I need help.\n- I am a loser and I can't do anything right.\n- My emotions are out of control.\n- I don't deserve a loving relationship.\n- My girlfriends were probably going to leave me anyway, because I'm not worth their love.\n- I don't deserve to be happy.",
+        "core_belief_fine_grained": [
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be abandoned",
+            "I am worthless, waste",
+            "I don’t deserve to live"
+        ]
+    },
+    {
+        "id": "65",
+        "ori_text": "From a young man int he U.S.: I’m 26 years old disabled and my mother controls everything and lies about everything. I need help. My disabilities are depression, anxiety, PTSD. She won’t let me go anywhere without her, she won’t let me have anyone over at my house any more, she won’t let me drive anywhere anymore. I feel trapped.",
+        "situation": "This client is experiencing a loss of autonomy over their life and is struggling with how to regain control.",
+        "thoughts": "I am trapped, I am helpless, I am stuck, I can't do anything to change my situation, I am a victim, I don't have control over my own life, there is nothing I can do.",
+        "core_belief_fine_grained": [
+            "I am helpless",
+            "I am powerless, weak, vulnerable",
+            "I am trapped"
+        ]
+    },
+    {
+        "id": "4688",
+        "ori_text": "I believe that I have issues trusting people. I grew up in a home where my parents hated each other and it was no secret. I never liked my mother who is controlling and selfish. My mother wouldn’t accept anything unless in her mind it was right. My father, for half of my life, was an alcoholic and didn’t come home very often. Although when my father was at home I would spend all of my time with him. At one point in my life my parents separated and my father disappeared without notice or any phone number we could even reach him at. I was devastated. The relationship between my mother and me only got worse. We would constantly get into fights and physical altercations just because I viewed something differently than her. Eventually my father stopped drinking and my parents thought they would give their marriage and our family a second chance. Nothing ever changed; except for the fact my father was sober.",
+        "situation": "I grew up in a home where my parents hated each other and it was no secret. My parents separated and my father disappeared with no notice, and the relationship between my mother and me only got worse. Eventually my father stopped drinking and my parents got back together but nothing ever changed.",
+        "thoughts": "- I am the problem.\n- Nobody loves me.\n- I am trapped in this situation.\n- My parents are out to get me.\n- Nothing will ever change.",
+        "core_belief_fine_grained": [
+            "I am trapped",
+            "I am unlovable",
+            "I am bound to be alone"
+        ]
+    },
+    {
+        "id": "10",
+        "ori_text": "Hello! I would like to know some exercises or something I can practice to get myself out of this numb state of emotions. Last year was really hard for me (break up of a 4yr relationship, rape, loss of 2 good friends) and I was in constant pain and then I think it just switched somehow in me some kind of defense mechanism I think when I just stopped feeling at all. It was helpful and helped me a lot to sort out a lot of things. Now when it’s relatively a long time over and im supposed to get better I just cant. The bad thing is that i cannot express love or open myself to any bpdy because I just can’t feel what they feel… I imagine it as some kind of a barrier in me. Do you have any advice on how to get rid of it? It really bothers me because I’m a young person and I love life and my friends and I wanna fall in love sometimes etc. Thank you for listening :) (From Slovakia)",
+        "situation": "Last year was incredibly difficult for me, marked by a series of traumatic events including the breakup of a 4-year relationship, experiencing rape, and the loss of two close friends. The pain was overwhelming, but at some point, I seemed to shut down emotionally as a defense mechanism. Now, even though time has passed, I find myself stuck in this numb state, unable to feel anything. This emotional numbness has become a barrier preventing me from expressing love or connecting with others, despite my desire to do so",
+        "thoughts": "I should get over this but I am stubborn and hard headed and cannot do anything normal.\nI an crazy and broken, nothing will help me.\nI will never love or have connection in my life.",
+        "core_belief_fine_grained": [
+            "I am powerless, weak, vulnerable",
+            "I am a victim",
+            "I am defective",
+            "I am unlovable",
+            "I am undesirable, unwanted",
+            "I am bound to be alone",
+            "I am worthless, waste"
+        ]
+    }
+]
